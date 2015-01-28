@@ -1,0 +1,20 @@
+---
+number: "019"
+title: I'll Settle For The Gwatch
+pubDate: 2014-06-17
+description: David and Michael flip tables about Google's I/O 2014 keynote, including the tech press continuing to misunderstand the words "developers conference", as well as other highlights from the keynote that tried to rival a middle earth film in length.
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft019.mp3
+enclosure_length: "63166746"
+duration: "01:03:51"
+---
+
+
+- [The 17 Most Important Things Google Announced At I/O](http://www.theverge.com/2014/6/25/5842050/the-most-important-things-google-announced-at-i-o/in/5606171)
+- [Circular UI cropped awkwardly?](http://i.imgur.com/nJ0jJiW.jpg)
+- [Android Wear](https://play.google.com/store/devices/collection/promotion_500013a_android_wear_us)
+- [Funny tweet about Android Wear demo and casual luxury](https://twitter.com/caseyjohnston/status/481845834762715136)
+- [Android Auto](http://www.theverge.com/2014/6/25/5841760/google-android-auto-announced)
+- [Material app switcher](http://cdn0.vox-cdn.com/entry_photo_images/10246423/DSC_3407_verge_super_wide.jpg)
+- [Classic mac commercial "cancel or allow"](https://www.youtube.com/watch?v=FxOIebkmrqs)
+- [#cardboard - Google+](https://plus.google.com/explore/cardboard)
+- [#cardboard - twitter](https://twitter.com/search?f=realtime&q=%23cardboard)

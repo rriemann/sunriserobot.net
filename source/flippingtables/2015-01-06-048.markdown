@@ -1,0 +1,24 @@
+---
+number: "048"
+title: Buy Other Rectangles
+pubDate: 2015-01-06
+description: Marriott proves they hate you by blocking your wifi devices. Mike and Lyons still haven't found the wearables they're looking for. And fan-made games are sometimes better than the originals; particularly when they play themselves!
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft048.mp3
+enclosure_length: "33210957"
+duration: "01:07:02"
+---
+
+
+- [Google and Microsoft Oppose Hotels’ Effort to Block Personal Wi-Fi](http://www.wsj.com/articles/BL-DGB-39565)
+- [I Still Haven't Found The Wearable I'm Looking For](http://pseudomichael.com/i-still-havent-found-the-wearable-im-looking-for/)
+- [Mario 64 HD Remake](https://www.youtube.com/watch?v=GLGMPLmgpv8)
+- [Megaman: Revenge of the Fallen](http://rpgmaker.net/games/2406/)
+- [Mother 4](http://www.mother4game.com/)
+- [Megaman Eternal](http://mme.pagewizardgames.com/)
+- [Megaman 2.5D](http://petersjostrand.com/)
+- [Castlevania II: Simon’s Quest REDACTION](http://www.thealmightyguru.com/Games/Hacking/Hacks/SimonsRedaction.html)
+- [Flip All The Pronouns](http://exple.tive.org/blarg/2012/11/07/flip-all-the-pronouns)
+- [Super Mario World Music Video Special Level](https://www.youtube.com/watch?v=k2wuC6LreMA)
+- [Mother 3 Fan Translation](http://mother3.fobby.net/)
+- [Justin Garrison’s 2014 Technology Predictions](http://1n73r.net/2014/01/01/2014-technology-predictions/)
+- [Justin Garrison’s 2015 Technology Predictions](http://1n73r.net/2015/01/01/2015-predictions/)

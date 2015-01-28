@@ -1,0 +1,18 @@
+---
+number: "043"
+title: I Just Assumed I Would Have Bread Forever
+pubDate: 2014-12-02
+description: How do you deal with rape threats on the internet? Tell the perpetrator's mother! Twitter is spying on the apps you have installed because they can't stop being terrible. Apple breaks its own rules and sends unwanted push notifications. Flickr decides to sell your photos. And Google makes paying to remove ads an option.
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft043.mp3
+enclosure_length: "26843850"
+duration: "00:54:46"
+---
+
+
+- [Game reviewer received rape threats from boys, contacted their mothers](http://mashable.com/2014/12/01/rape-threats-contact-mothers/)
+- [Twitter Is Going To Spy On You Via The Apps You Install, Here's How To Stop It](http://www.forbes.com/sites/ianmorris/2014/11/27/twitter-is-going-to-spy-on-you-via-the-apps-you-install-heres-how-to-stop-it/)
+- [Apple bends its own rules by using push notification to promote the App Store's (RED) campaign](http://www.phonearena.com/news/Apple-bends-its-own-rules-by-using-push-notification-to-promote-the-App-Stores-RED-campaign_id63385)
+- [A Kickstarter Promises If You Bleed in the Game, You'll Bleed For Real](http://www.dorkly.com/post/70715/a-kickstarter-promises-if-you-bleed-in-the-game-youll-bleed-for-real)
+- [Game System - Perry Bible Fellowship comic](http://www.pbfcomics.com/134/)
+- [What’s Wrong with This Picture? Flickr Is about to Sell off Your Creative Commons Photos](http://www.zeldman.com/2014/11/29/flickr-is-about-to-sell-off-your-creative-commons-photos/)
+- [Google Contributor: can I really pay to remove ads?](http://www.theguardian.com/technology/2014/nov/21/google-contributor-pay-remove-ads)

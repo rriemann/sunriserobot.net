@@ -1,0 +1,20 @@
+---
+number: "046"
+title: I Don’t Like The Level of Maturity Required
+pubDate: 2014-12-23
+description: Lyons spends a week with Mike's Pebble smartwatch. And the Sony hack. 300TB of data stolen, a (likely terrible) movie canceled, thousands of employees personal information exposed. It's bad, baby. Real bad.
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft046.mp3
+enclosure_length: "31308871"
+duration: "01:03:04"
+---
+
+
+- [pebble](https://getpebble.com/)
+- [How to Unfollow All Followers on Twitter in 3 Seconds 5/22/14](https://www.youtube.com/watch?v=l12fuC5o0ao)
+- [A Look Through The Sony Pictures Data Hack: This Is As Bad As It Gets](http://www.buzzfeed.com/tomgara/sony-hack)
+- [Mitt Romney on twitter](https://twitter.com/MittRomney/status/545379913772302336)
+- [Hacked corporations don’t deserve our sympathy](http://america.aljazeera.com/opinions/2014/12/sony-hack-security.html)
+- [Sony Might Release 'The Interview' For Free Online](http://www.businessinsider.com/report-sony-plans-to-release-the-interview-for-free-on-crackle-2014-12)
+- [Leaked ‘the Interview’ Clip Shows Kim Jong-un Death Scene (Video)](http://www.vancitybuzz.com/2014/12/leaked-interview-clip-shows-kim-jong-un-death-scene-video/)
+- [A Tribute To Stephen Colbert, A Self-Proclaimed 'Junkie For Exhaustion'](http://www.npr.org/2014/12/18/371659078/a-tribute-to-stephen-colbert-a-self-proclaimed-junkie-for-exhaustion)
+

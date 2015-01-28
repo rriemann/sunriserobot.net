@@ -1,0 +1,14 @@
+---
+number: "037"
+title: I Can't Paint Another Bowl of Fruit
+pubDate: 2014-10-21
+description: War. War Never changes. Except when it does. Follow Mike and Lyons down the rabbit hole as they try to summarize all of modern philosophy, and discuss their experiences hate playing difficult games.
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft037.mp3
+enclosure_length: "49159973"
+duration: "01:05:24"
+---
+
+
+- [Plastc](//plastc.com)
+- [China is staging a nationwide attack on iCloud and Microsoft accounts](http://www.theverge.com/2014/10/20/7013409/china-is-staging-a-nationwide-attack-on-icloud)
+- [Borderlands: The Pre-Sequal launch trailer](https://www.youtube.com/watch?v=MnyeCZrRBt4)

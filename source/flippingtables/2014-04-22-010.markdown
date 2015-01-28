@@ -1,0 +1,19 @@
+---
+number: "010"
+title: It Has an Internally Consistent Narrative
+pubDate: 2014-04-22
+description: Mike finally delivers an original theme song for the show! Heartbleed and security are revisited before the discussion gives way to video game music and sandbox simulators of the goat and tabletop variety.
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft010.mp3
+enclosure_length: "41547970"
+duration: "00:55:07"
+---
+
+
+- [Chromebleed](http://lifehacker.com/chromebleed-notifies-you-if-a-visited-site-was-hit-by-h-1562512336)
+- [MTV Music Generator](http://www.gamefaqs.com/ps/198010-mtv-music-generator)
+- [FFXIV’s gamification of security](http://na.finalfantasyxiv.com/lodestone/topics/detail/45e4e4123c3d901276d1f5e5f74ceda18a4657cf)
+- [Lyons' shameless self-promotion](http://lyonsinbeta.com/2014/03/walking-the-security-walk/)
+- [Goat Simulator Trailer](http://store.steampowered.com/app/265930/)
+- [Tabletop Simulator](http://store.steampowered.com/app/286160/)
+- [Flipping Tables Theme - NES edition](https://soundcloud.com/medwardsmusic/flipping-tables-theme-nes-edition)
+- [Flipping Tables Theme - beta version](https://soundcloud.com/medwardsmusic/flipping-tables-theme)

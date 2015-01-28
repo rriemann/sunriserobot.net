@@ -1,0 +1,50 @@
+<% @show = YAML.load_file("source/data/shows.yml").find { |s| s["prefix"] == blog.options.prefix.sub("/", "") } %>
+<!DOCTYPE html>
+<html lang="en">
+  <%= partial "layouts/head" %>
+  <body>
+  <%= partial "layouts/header" %>
+    <section class="subheader"> <!-- Episode header -->
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-5 col-md-4">
+            <a href="/<%= @show["prefix"] %>"><img class="img-responsive" src="/images/<%= @show["album_art"]%>"/></a>
+          </div>
+          <div class="col-sm-7 col-md-8">
+            <p class="episode-date">#<%= current_article.data.number %> - <%= current_article.date.strftime("%B %-d, %Y")  %></p>
+            <h1 class="episode-title"><%= current_article.title %></h1>
+            <p class="episode-desc"><%= current_article.data.description %></p>
+            <p><audio controls preload src="<%= current_article.data.enclosure_link %>"> <br>
+            </audio>
+            <p><a href="<%= @show["itunes"] %>" class="btn btn-default btn-lg" role="button"><i class="fa fa-music"></i> iTunes</a> <a href="/<%= @show["prefix"] %>/feed.xml" class="btn btn-default btn-lg" role="button"><i class="fa fa-rss"></i> RSS</a></p>
+          </div>
+        </div>
+      </div>
+    </section> <!-- End episode header -->
+
+    <section class="main-content"> <!-- Show Notes & Sidebar -->
+      <div class="container">
+        <div class="row clearfix">
+          <article class="col-sm-7 col-md-8 col-sm-push-5 col-md-push-4"> <!-- Show Notes column -->
+            <h2>Show Notes</h2>
+            <ul class="show-notes">
+              <%= yield %>
+            </ul>
+            <h4>Discuss this episode</h4>
+            <ul class="list-inline discuss-links">
+              <li><a href="http://reddit.com/r/sunriserobot" class="btn btn-reddit"><i class="fa fa-reddit fa-lg fa-fw"></i></a></li>
+              <li><a href="http://twitter.com/sunriserobot" class="btn btn-twitter"><i class="fa fa-twitter fa-lg fa-fw"></i></a></li>
+              <li><a href="http://facebook.com/sunriserobot" class="btn btn-facebook"><i class="fa fa-facebook fa-lg fa-fw"></i></a></li>
+              <li><a href="#" class="btn btn-google"><i class="fa fa-google-plus fa-lg fa-fw"></i></a></li>
+            </ul>
+          </article> <!-- End Show Notes -->
+
+          <hr class="hidden-sm hidden-md hidden-lg"/> <!-- horizontal rule for mobile only -->
+          <%= partial "layouts/host_sidebar" %>
+        </div>
+
+      </div>
+    </section> <!-- End of Show Notes & Sidebar -->
+  <%= partial "layouts/footer" %>
+  </body>
+</html>

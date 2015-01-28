@@ -1,0 +1,21 @@
+---
+number: "004"
+title: Could You Live Without Google?
+pubDate: 2014-03-11
+description: Could you live without Google? Turns out you can, but why would you want to? Gmail Man, Vine, and the secrets of Schadenfreude revealed!
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft004.mp3
+enclosure_length: "45764755"
+duration: "01:00:58"
+---
+
+
+- [Gmail Man](https://www.youtube.com/watch?v=iMbQCom7VTY)
+- [XKCD I’m a server](https://xkcd.com/869/)
+- [Mike's homescreen](https://lh5.googleusercontent.com/-xnecMy2D2Xs/Ux9OSx5mvJI/AAAAAAAABJI/lGD8fw0e8H8/w640-h1136-no/IMG_0003.PNG)
+- [Detective Detective Detective](http://www.imdb.com/title/tt3089684/?ref_=fn_al_tt_1)
+- [Apple Store Meltdown](https://vine.co/v/huHUPLnx1dg)
+- [Adam Goldberg](http://www.buzzfeed.com/mikehayes/adam-goldberg-is-totally-winning-at-vine)
+- [Stanford Prison Experiment](http://www.prisonexp.org/)
+- [Schadenfreude explained](http://flippingtablespodcast.com/003/#comment-1271782537)
+- [Avenue Q - Schadenfreude](https://www.youtube.com/watch?v=nCQGQ5qBQTA)
+- Music by Anamanaguchi (until we write our own!)

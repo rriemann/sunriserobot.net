@@ -1,0 +1,16 @@
+---
+number: "029"
+title: Yeah, It’s An Incomprehensible Mess
+pubDate: 2014-08-26
+description: What is Twitch.tv and why do people care about watching other people play video games on the internet? Also, how Slack might change the way you communicate in teams.
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft029.mp3
+enclosure_length: "54798140"
+duration: "00:54:56"
+---
+
+- [BostonDotCom extorting tweets for access to articles](https://twitter.com/pseudojustin/status/503632672053555201)
+- [Baseball comics](http://imgur.com/a/BJfSH)
+- [Animaniacs Prince joke](https://www.youtube.com/watch?v=1xmAC9Qu908)
+- [Amazon Buy Twitch for $970M](http://kotaku.com/reports-amazon-to-buy-twitch-for-over-1-billion-1626564744)
+- [Goldman Sachs Elevator](https://www.facebook.com/GoldmanSachsElevator), [Regarding ‘reply all’](https://www.facebook.com/GoldmanSachsElevator/posts/747755171956648), [Regarding ‘publishing’ online](https://www.facebook.com/GoldmanSachsElevator/posts/749621421770023)
+- [Slack](https://slack.com/)

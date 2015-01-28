@@ -1,0 +1,21 @@
+---
+number: "011"
+title: Presentation Blue Balls
+pubDate: 2014-04-29
+description: Will your artificial intelligence be annoying to your friends? Are you still using Windows XP? Did you know they found thousands of copies of E.T. buried in the desert? Answers to all these questions and why your conference presentation might suck.
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft011.mp3
+enclosure_length: "51011261"
+duration: "01:08:16"
+---
+
+
+- [E.T. Game Burial](http://en.wikipedia.org/wiki/Atari_video_game_burial)
+- <strike>Angry Video Game Nerd Reviews ET For the Atari 2600</strike>
+	- The review seems to have been taken down for _Angry Video Game Nerd: The Movie_
+- [Internet Explorer: all versions vulnerable](http://www.zdnet.com/microsoft-discloses-zero-day-in-all-versions-of-internet-explorer-7000028803/)
+- [PortableApps.com](http://portableapps.com/)
+- [Cortana vs. Siri vs. Google Now: The Ultimate Voice Control Showdown](http://gizmodo.com/cortana-vs-siri-vs-google-now-the-ultimate-voice-con-1562935258)
+- ["Xbox Turn Off" Trolling](https://www.youtube.com/watch?v=VsA4qm0wmHc)
+- [Synergy Fingers](http://education.synergyphysioregina.com/media/img/444/finger_swanneck_intro01.jpg)
+- [XKCD: Freedom of Speech](http://xkcd.com/1357/)
+- [speaking.io](http://speaking.io/)

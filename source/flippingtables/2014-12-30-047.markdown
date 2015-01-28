@@ -1,0 +1,17 @@
+---
+number: "047"
+title: Winning Is More Important Than Our Friendship
+pubDate: 2014-12-30
+description: Get any good games for Christmas? Too bad you didn't get to play them thanks to DDoS attacks against the PSN and Xbox Live. At least you had the option to watch The Interview on Youtube. Win?
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft047.mp3
+enclosure_length: "32395577"
+duration: "01:05:20"
+---
+
+
+- [NES30](http://www.nes30.com/)
+- [NES30 on Amazon](http://amzn.com/B00MB6CNN8)
+- [Sony Releases ‘The Interview’ Online](http://www.wsj.com/articles/sony-to-release-the-interview-online-christmas-eve-afternoon-1419442648)
+- [It's OK if you don't watch The Interview on Christmas, or ever](http://www.theverge.com/2014/12/24/7448457/its-ok-if-you-dont-watch-the-interview-on-christmas-or-ever-review)
+- [Seth Rogen’s response to The Verge](https://twitter.com/Sethrogen/status/547930960658837505)
+- [Xbox Live And PlayStation Network Knocked Offline For Much Of Christmas](http://kotaku.com/xbox-live-and-playstation-network-are-having-problems-t-1675130891)

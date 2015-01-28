@@ -1,0 +1,15 @@
+---
+number: "039"
+title: I Swooned, I’ll See You After My Nap
+pubDate: 2014-11-04
+description: If talking about meta-gaming is a kind of meta-gaming then we're all meta-gamers now! CurrentC does us all a favor and proves that it's a joke prior to release, smalltowns are NFC poor, and region locked gaming is confirmed to be dumb.
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft039.mp3
+enclosure_length: "48243077"
+duration: "01:04:08"
+---
+
+
+- [No NFC in small town America #butts](https://twitter.com/cmkraut/status/527252483392172034)
+- [CurrentC Not Even Released, Already Hacked](http://www.businessinsider.com/currentc-hacked-2014-10)
+- [HBO May Be Cutting The Cable-Cord](http://www.theverge.com/2014/10/15/6982281/hbo-go-no-cable-streaming-netflix-worst-nightmare)
+- [Nintendo May Be Leaving Region Locks In The Past](http://www.nerdist.com/2014/11/gaming-daily-nintendo-may-be-leaving-region-locks-in-the-past/)

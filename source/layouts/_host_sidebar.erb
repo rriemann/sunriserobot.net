@@ -1,0 +1,22 @@
+<aside class="col-sm-5 col-md-4 col-sm-pull-7 col-md-pull-8"> <!-- Sidebar column -->
+            <h2>Hosted by</h2>
+            <% @show["hosts"].each do |host| %>
+            <h3 class="host-name"><%= host["name"] %></h3>
+            <div class="row">
+              <div class="col-xs-3">
+                <a href="#"><img class="img-responsive host-img" src="/images/hosts/<%= host["photo"] ? host["photo"] : "profile.png" %>"/></a>
+              </div>
+              <div class="col-xs-9">
+                <ul class="list-unstyled host-links">
+                  <% if host["website"] %><li><a href="http://<%= host["website"] %>"><i class="fa fa-globe fa-fw"></i> <%= host["website"] %> </a></li><% end %>
+                  <% if host["twitter"] %><li><a href="http://twitter.com/<%= host["twitter"] %>"><i class="fa fa-twitter fa-fw"></i> <%= host["twitter"] %></a></li><% end %>
+                </ul>
+              </div>
+            </div>
+            <% end %>
+            <div class="support">
+            <h3>The Show Must Go On</h3>
+            <p>If you like what we're doing, then help us keep the lights on and the episodes coming!</p>
+            <p><a href="#" class="btn btn-lg btn-support"><i class="fa fa-thumbs-up fa-fw"></i> Support The Show</a></p>
+            </div>
+          </aside> <!-- End of Sidebar -->

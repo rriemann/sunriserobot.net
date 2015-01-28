@@ -1,0 +1,17 @@
+---
+number: "007"
+title: The World Is Big and Expansive and I'll Never Get to See It All
+pubDate: 2014-04-03
+description: David and Mike flip tables about JRPGs and other games with excessive tutorials, while praising games that get it right - namely, Mega Man X.
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft007.mp3
+enclosure_length: "45377354"
+duration: "01:00:26"
+---
+
+
+- [Jonathan Blow GDC Interview](https://www.youtube.com/watch?v=I1Fg76c4Zfg)
+- [Sequelitis: Megaman X](https://www.youtube.com/watch?v=8FpigqfcvlM)
+- [Game Theory: Are Gamers Killing Video Games?](https://www.youtube.com/watch?v=Cxhs-GLE29Q)
+- [Goomba - Michael Bay TMNT comparison image](https://pbs.twimg.com/media/BkTiq1gCYAM-sG7.png:large)
+- [Super Mario Bros. The Movie - Luigi's dancing goombas](http://youtu.be/nQy-eJALZI0?t=1m30s)
+- Music by Anamanaguchi (until we write our own, now with 100% more commitment from Mike to get it done!)

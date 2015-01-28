@@ -1,0 +1,15 @@
+---
+number: "041"
+title: Anna, Queen of the Internet
+pubDate: 2014-11-18
+description: "Turns out metagaming is not optional for some people. The world is confused by the world of Twitter and their craziest mission statement in the world. Sometimes the best thing doesn't win. And when did shipping unplayably broken games become okay? Answer: never!"
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft041.mp3
+enclosure_length: "28450812"
+duration: "00:54:58"
+---
+
+
+- [People Are Freaking Out Over Twitter's Clunky Description Of Itself](https://ph.news.yahoo.com/people-freaking-over-twitter-clunky-001757157.html)
+- [Chart of Twitter's crazy mission statement](https://recodetech.files.wordpress.com/2014/11/anthony-noto-twitter-strategy.png?w=640&h=320)
+- [Star Wars Jedi Knight II: Jedi Outcast](http://store.steampowered.com/app/6030/)
+- [Ubisoft's guide to everything wrong with Assassin's Creed Unity](http://www.polygon.com/2014/11/14/7222679/ubisofts-guide-to-everything-wrong-with-assassins-creed-unity)

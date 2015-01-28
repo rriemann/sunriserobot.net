@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%= partial "layouts/head" %>
+  <body>
+    <%= partial "layouts/header" %>
+      <section class="subheader"> <!-- Show artwork, title, description, and subscribe buttons -->
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-5 col-md-4">
+            <img class="img-responsive" src="/images/<%= @show["album_art"] %>"/>
+          </div>
+          <div class="col-sm-7 col-md-7">
+            <h1 class="show-title"><%= @show["title"] %></h1>
+            <p><%= @show["description"] %></p>
+            <p><a href="<%= @show["itunes"] %>" class="btn btn-itunes" role="button"><i class="fa fa-music"></i> iTunes</a> <a href="/<%= @show["prefix"] %>/feed.xml" class="btn btn-rss" role="button"><i class="fa fa-rss"></i> RSS</a></p>
+          </div>
+        </div>
+      </div>
+    </section> <!-- End Show art, title, etc. -->
+
+    <section class="main-content"> <!-- Recent Episodes & Sidebar -->
+      <div class="container">
+        <div class="row">
+           <article class="col-sm-7 col-md-8 col-sm-push-5 col-md-push-4"> <!-- Recent Episodes column -->
+            <h2>Recent Episodes</h2>
+            <ul class="list-unstyled list-episodes">
+            <% page_articles.each do |episode| %>
+              <li>
+                <p class="list-episode-date">#<%= episode.data.number %> - <%= episode.date.strftime("%B %-d, %Y") %></p>
+                <h3 class="list-episode-title"><%= link_to episode.title, episode %></h3>
+              </li>
+              <% end %>
+            </ul>
+            <nav class="text-center text-muted page-buttons"> <!-- Pagination -->
+              <ul class="list-inline">
+                <% if page_number > 1 %>
+                <li class="pull-left"><a href="<%= prev_page.url %>" class="btn btn-sm btn-default"><i class="fa fa-angle-left fa-fw"></i> Newer</a></li>                <% end %>
+                <li class="text-center text-muted page-number">Page <%= page_number %> of <%= num_pages %></li>
+                <% if page_number < num_pages %>
+                <li class="pull-right"><a href="<%= next_page.url %>" class="btn btn-sm btn-default">Older <i class="fa fa-angle-right fa-fw"></i></a></li>                <% end %>
+              </ul>
+            </nav>
+            <hr class="hidden-sm hidden-md hidden-lg"/> <!-- Mobile-only horizontal rule -->
+          </article> <!-- End of Recent Episodes -->
+          <%= partial "layouts/host_sidebar" %>
+        </div>
+      </div>
+    </section> <!-- End of Recent Episodes & Sidebar -->
+
+    <footer> <!-- Footer -->
+      <div class="container">
+        <h2 class="sunrise"><a href="#">Sunrise Robot</a></h2>
+        <p>Founded with love and care by <a href="http://twitter.com/medwardsmusic">Michael Edwards</a> and <a href="http://twitter.com/lyonsinbeta">David Lyons</a>. Logo design by <a href="http://twitter.com/echolox">Matt Duncan</a> and <a href="">Lars De</a>.</span></p>
+        <ul class="list-inline">
+          <li><a href="http://twitter.com/sunriserobot"><i class="fa fa-twitter fa-lg"></i> sunriserobot</a></li>
+          <li><a href="mailto:ads@sunriserobot.net"><i class="fa fa-bullhorn fa-fw"></i> Advertise</a></li>
+          <li><a href="#"><i class="fa fa-thumbs-up fa-fw"></i> Become A Supporter</a></li>
+        </ul>
+        <p>&copy; 2015 Sunrise Robot</p>
+    </footer> <!-- End Footer -->
+  </body>
+</html>

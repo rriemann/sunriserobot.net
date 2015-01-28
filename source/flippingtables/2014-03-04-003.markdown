@@ -1,0 +1,22 @@
+---
+number: "003"
+title: It Cuts Through Mithril!
+pubDate: 2014-03-04
+description: A high minded discussion about open source software quickly devolves into Potato Jesus and a philosophical reflection on infomercial marketing research.
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft003.mp3
+enclosure_length: "60324541"
+duration: "01:00:54"
+---
+
+
+- [The Steve Jobs 1000](http://www.businessinsider.com/creepy-new-steve-jobs-statue-2014-2)
+ - [T-1000 for comparison](http://static3.wikia.nocookie.net/__cb20090409203949/terminator/images/c/c1/T1000.maniacs.jpg)
+- [The Guyver](http://www.imdb.com/title/tt0101988/)
+- [Schadenfreude](http://en.wikipedia.org/wiki/Schadenfreude)
+- [Botched Jesus Fresco](http://www.cnn.com/2013/08/16/travel/botched-fresco-surprise-hit/)
+  - [Know Your Meme - Potato Jesus](http://knowyourmeme.com/memes/events/botched-ecce-homo-painting)
+- [r/wheredidthesodago](http://www.reddit.com/r/wheredidthesodago/)
+  - [Shake Weight](http://en.wikipedia.org/wiki/Shake_Weight)
+- [iPhone Christmas 2013 Commercial](http://www.youtube.com/watch?v=v76f6KPSJ2w)
+- [Stephen Colbert RSA Keynote](http://www.mediaite.com/online/watch-colbert-delivers-keynote-at-controversial-rsa-security-conference/)
+- Music by Anamanaguchi (until we write our own!)

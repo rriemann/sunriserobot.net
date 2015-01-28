@@ -1,0 +1,23 @@
+- prefix: "flippingtables"
+  title: "Flipping Tables"
+  hosts:
+    - { name: "Michael Edwards",
+        twitter: "medwardsmusic",
+        website: "pseudomichael.com",
+        photo: "michaeledwards.jpg" }
+    - { name: "David Lyons",
+        twitter: "lyonsinbeta",
+        website: "lyonsinbeta.com",
+        photo: "davidlyons.jpg" }
+  description: "Flipping Tables is a show about technology, gaming, and culture."
+  album_art: "flippingtables_album.jpg"
+  email: "hello@sunriserobot.net"
+  category: "Technology"
+  itunes: "https://itunes.apple.com/us/podcast/flipping-tables/id820841907"
+- prefix: "pseudoshow"
+  title: "Pseudo Show"
+  hosts:
+    - { name: "Michael Edwards", twitter: "medwardsmusic", website: "pseudomichael.com" }
+    - { name: "Justin Edwards", twitter: "pseudojustin", website: "pseudojustin.com" }
+  description: "DAT FUCKING SHOW"
+  album_art: "pseudoshow_album.jpg"

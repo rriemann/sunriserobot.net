@@ -1,0 +1,18 @@
+---
+number: "032"
+title: There's Lots of Evil Car Salesmen
+pubDate: 2014-09-16
+description: The Apple Watch gets a brief mention because that's all it deserves. U2 and Urban Outfitters inspire a discussion about stupid decisions and the subsequent PR backlashes, as we also take a look at the Bullet Journal and Opp.io. Is there a journaling system that Mike can succeed with?
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft032.mp3
+enclosure_length: "37426496"
+duration: "00:49:07"
+---
+
+- [Echolox's finished Wii U Link costume](https://twitter.com/Echolox/status/511065060236857344)
+- [The 15 most important announcements from the Apple Watch, iPhone 6 event](http://www.theverge.com/2014/9/9/6107091/apple-watch-iphone-6-most-important-things)
+- [Urban Outfitters Sells Bloody Kent State Sweatshirt, Quickly Apologizes](http://www.boston.com/business/news/2014/09/15/urban-outfitters-sells-vintage-bloody-kent-state-sweatshirt-quickly-apologizes/XeUnKhibPspwh7TVEw4mFO/story.html)
+- [Bullet Journal Kickstarter](https://www.kickstarter.com/projects/1562027630/bullet-journal-journaling-at-the-speed-of-life)
+- [33 Days Later: An Update On My Use of Bullet Journal](http://tamingdata.com/2014/02/02/33-days-later-an-update-on-my-use-of-the-bullet-journal-method-task-tracking-system/)
+- [opp.io](http://opp.io)
+- [Apple releases tool to remove U2 “gift”](http://www.cnn.com/2014/09/15/tech/mobile/apple-u2-return/)
+- [Bob Lefsetz: How U2 Blew It](http://lefsetz.com/wordpress/index.php/archives/2014/09/10/u2-blew/)

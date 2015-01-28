@@ -1,0 +1,17 @@
+---
+number: "027"
+title: The Quiet Frustration That Rises In You
+pubDate: 2014-08-19
+description: Technology in sports is here to stay, but how much is too much before it becomes a different game altogether? Do we need "pure human leagues" and "robo leagues"? Also, with all our keyboards and touchscreens, why should anyone care about penmanship? Our very first flipping of a TED talk table!
+enclosure_link: http://traffic.libsyn.com/sunriserobot/ft027.mp3
+enclosure_length: "57399526"
+duration: "00:57:38"
+---
+
+
+- [Twitter's Latest Experiment Puts Favorites in the Timeline, Users Not Impressed](http://mashable.com/2014/08/17/twitters-favorites-experiment/)
+- [Baseball bat axe handle](http://www.wired.com/2014/08/axe-bat/)
+- [Malcom In The Middle - Hal's insane superstitious bowling routine](https://www.youtube.com/watch?v=3wj7c4denH0#t=806)
+- [Base Wars](http://en.wikipedia.org/wiki/Base_Wars)
+- [Base Wars gameplay](https://www.youtube.com/watch?v=ZqB6rY94DCw)
+- [TedX talk about 21st century penmanship](https://www.youtube.com/watch?v=85bqT904VWA)
