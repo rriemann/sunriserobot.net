@@ -1,9 +1,9 @@
 ---
 number: "002"
-title: Talent Gets You Far, Hard Work Gets You Furthest
-pubDate: 2014-04-15
+title: "Talent Gets You Far, Hard Work Gets You Furthest"
+pubDate: "2014-04-15"
 description: "Justin and Michael welcome the talented and gregarious Leslie Andrew Ridings to discuss his creative work in all sorts of visual media. Come for the insights into doing creative work and collaboration, stay for the Bib Fortuna references."
-enclosure_link: http://traffic.libsyn.com/sunriserobot/ps002.mp3
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps002.mp3"
 enclosure_length: "0"
 duration: "00:00:00"
 ---
