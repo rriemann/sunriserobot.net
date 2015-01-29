@@ -19,10 +19,12 @@
   hosts:
     - { name: "Michael Edwards",
         twitter: "medwardsmusic",
-        website: "pseudomichael.com" }
+        website: "pseudomichael.com",
+        photo: "michaeledwards.jpg" }
     - { name: "Justin Edwards",
         twitter: "pseudojustin",
-        website: "pseudojustin.com" }
+        website: "pseudojustin.com",
+        photo: "justinedwards.jpg" }
   description: "A peek into the lives of filmmakers, musicians, writers and other artists, exploring their influences and origin stories."
   album_art: "pseudoshow_album.jpg"
   email: "hello@sunriserobot.net"
@@ -32,7 +34,8 @@
   title: "Some Pulp"
   hosts:
     - { name: "Bruce Edwards",
-        twitter: "bruceledwards" }
+        twitter: "bruceledwards",
+        photo: "bruceedwards.jpg" }
   description: "A retrospective meditation on media, art and technology from the 1950s onward."
   album_art: "somepulp_album.jpg"
   email: "hello@sunriserobot.net"
@@ -41,9 +44,11 @@
   title: "Likely Story"
   hosts:
     - { name: "Shelby Edwards",
-        twitter: "shelbyelizabeth" }
+        twitter: "shelbyelizabeth",
+        photo: "shelbyedwards.jpg" }
     - { name: "Polly Kyle",
-        twitter: "pollyannek" }
+        twitter: "pollyannek",
+        photo: "pollykyle.jpg" }
   description: "Stuff and stuff."
   album_art: "likelystory_album.jpg"
   email: "hello@sunriserobot.net"
