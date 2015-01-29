@@ -30,6 +30,21 @@
   email: "hello@sunriserobot.net"
   category: "TV & Film"
   itunes: "https://itunes.apple.com/us/podcast/pseudobook-podcast/id858823896"
+- prefix: "bitsandpieces"
+  title: "Bits & Pieces"
+  hosts:
+    - { name: "Matt Duncan",
+        twitter: "echolox",
+        website: "facebook.com/echolox",
+        photo: "mattduncan.jpg" }
+    - { name: "Michael Edwards",
+        twitter: "medwardsmusic",
+        website: "pseudomichael.com",
+        photo: "michaeledwards.jpg" }
+  description: "A weekly examination of the world of music from the perspective as listeners and creators, including the ingredients of success and new developments in the industry."
+  album_art: "bitspieces_album.png"
+  email: "hello@sunriserobot.net"
+  category: "Music"
 - prefix: "somepulp"
   title: "Some Pulp"
   hosts:
