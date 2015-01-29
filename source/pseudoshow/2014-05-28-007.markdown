@@ -1,0 +1,14 @@
+---
+number: "007"
+title: "Hey, I Ate At That Restaurant. It's Mine Now."
+pubDate: "2014-05-28"
+description: "Shuchi Talati joins the show to discuss her work in film and storytelling, including her transition from fiction writing and literature studies to film, her experience in the directing program at the American Film Institute, and the joys (and sorrows) of trying to get a feature film made."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps007.mp3"
+enclosure_length: "0"
+duration: "00:00:00"
+---
+- [Shuchi Talati on Vimeo](http://vimeo.com/shuchitalati)
+- [Mae and Ash - Shuchi's AFI short film](http://vimeo.com/55165865)
+- [Guttersnipes on the web](http://www.guttersnipesfilm.com/), [Twitter](https://twitter.com/GStheFilm), and [Facebook](https://www.facebook.com/guttersnipesfilm)
+- [A Life Ascending - ski documentary](http://alifeascending.com/)
+- [The Long Game - history's geniuses are actually losers](http://www.brainpickings.org/index.php/2014/05/23/the-long-game/)
