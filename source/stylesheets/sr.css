@@ -286,14 +286,14 @@ footer h2 a:hover, footer h2 a:focus {
 
 .btn-itunes {
   color: #fff;
-  background-color: #e9173e;
-  border-color: #c81436;
+  background-color: #0090ff;
+  border-color: #007ddd;
 }
 
 .btn-itunes:hover {
-  color: #e9173e;
-  background-color: #ffccd0;
-  border-color: #e9173e;
+  color: #0090ff;
+  background-color: #def1ff;
+  border-color: #0090ff;
 }
 
 .btn-rss {
@@ -316,7 +316,7 @@ footer h2 a:hover, footer h2 a:focus {
 
 .btn-support:hover {
   color: #0090ff;
-  background-color: #c0e4ff;
+  background-color: #def1ff;
   border-color: #0090ff;
 }
 
