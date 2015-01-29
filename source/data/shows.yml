@@ -28,3 +28,14 @@
   email: "hello@sunriserobot.net"
   category: "TV & Film"
   itunes: "https://itunes.apple.com/us/podcast/pseudobook-podcast/id858823896"
+- prefix: "likelystory"
+  title: "Likely Story"
+  hosts:
+    - { name: "Shelby Edwards",
+        twitter: "shelbyelizabeth" }
+    - { name: "Polly Kyle",
+        twitter: "pollyannek" }
+  description: "Stuff and stuff."
+  album_art: "likelystory_album.jpg"
+  email: "hello@sunriserobot.net"
+  category: "TV & Film"

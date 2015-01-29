@@ -1,5 +1,5 @@
 ---
-blog: "The Pseudo Show"
+blog: "Likely Story"
 ---
 show_data       = YAML.load_file("source/data/shows.yml").find { |s| s["prefix"] == blog.options.prefix.sub("/", "") }
 rss_boilerplate = YAML.load_file("source/data/rss-boilerplate.yml")["rss_boilerplate"]
