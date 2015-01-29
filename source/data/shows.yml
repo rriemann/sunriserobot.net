@@ -28,6 +28,15 @@
   email: "hello@sunriserobot.net"
   category: "TV & Film"
   itunes: "https://itunes.apple.com/us/podcast/pseudobook-podcast/id858823896"
+- prefix: "somepulp"
+  title: "Some Pulp"
+  hosts:
+    - { name: "Bruce Edwards",
+        twitter: "bruceledwards" }
+  description: "A retrospective meditation on media, art and technology from the 1950s onward."
+  album_art: "somepulp_album.jpg"
+  email: "hello@sunriserobot.net"
+  category: "TV & Film"
 - prefix: "likelystory"
   title: "Likely Story"
   hosts:

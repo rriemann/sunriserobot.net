@@ -1,0 +1,5 @@
+---
+blog: "Some Pulp"
+pageable: true
+---
+<% @show = YAML.load_file("source/data/shows.yml").find { |s| s["prefix"] == "somepulp" } %>

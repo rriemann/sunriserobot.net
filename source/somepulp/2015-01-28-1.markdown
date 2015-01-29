@@ -2,8 +2,8 @@
 number: "1"
 title: "Stuff"
 pubDate: "2015-01-28"
-description: "Dem Likelys."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ls099.mp3"
+description: "Dat Pulp."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/sp099.mp3"
 enclosure_length: "0"
 duration: "00:00:00"
 ---
