@@ -16,7 +16,7 @@
             <p class="episode-desc"><%= current_article.data.description %></p>
             <p><audio controls preload src="<%= "#butts" %>"> <br>
             </audio>
-            <p><a href="<%= @show["itunes"] %>" class="btn btn-itunes" role="button"><i class="fa fa-music"></i> iTunes</a> <a href="/<%= @show["prefix"] %>/feed.xml" class="btn btn-rss" role="button"><i class="fa fa-rss"></i> RSS</a></p>
+            <p><a href="<%= @show["itunes"] %>" class="btn btn-itunes" role="button"><i class="fa fa-music"></i> iTunes</a> <a href="pcast://sunriserobot.net/<%= @show["prefix"] %>/feed.xml" class="btn btn-rss" role="button"><i class="fa fa-rss"></i> RSS</a></p>
           </div>
         </div>
       </div>
