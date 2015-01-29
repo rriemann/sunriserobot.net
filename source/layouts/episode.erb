@@ -30,11 +30,11 @@
             <div class="show-notes">
               <%= yield %>
             </div>
-            <h4>Discuss this episode</h4>
+            <h4>Share this episode</h4>
             <ul class="list-inline discuss-links">
-              <li><a href="http://twitter.com/sunriserobot" class="btn btn-twitter"><i class="fa fa-twitter fa-lg fa-fw"></i></a></li>
-              <li><a href="http://facebook.com/sunriserobot" class="btn btn-facebook"><i class="fa fa-facebook fa-lg fa-fw"></i></a></li>
-              <li><a href="#" class="btn btn-google"><i class="fa fa-google-plus fa-lg fa-fw"></i></a></li>
+              <li><a href="https://twitter.com/share?text=<%= current_article.title %>&url=http://sunriserobot.net<%= current_article.url %>" class="btn btn-twitter"><i class="fa fa-twitter fa-lg fa-fw"></i></a></li>
+              <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://sunriserobot.net<%= current_article.url %>" class="btn btn-facebook"><i class="fa fa-facebook fa-lg fa-fw"></i></a></li>
+              <li><a href="https://plus.google.com/share?url=http://sunriserobot.net<%= current_article.url %>" class="btn btn-google"><i class="fa fa-google-plus fa-lg fa-fw"></i></a></li>
             </ul>
           </article> <!-- End Show Notes -->
 
