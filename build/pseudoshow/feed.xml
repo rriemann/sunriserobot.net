@@ -7,14 +7,14 @@
     <language>en-us</language>
     <copyright>Copyright 2015 Michael Edwards and Justin Edwards</copyright>
     <image>
-      <url>http://sunriserobot.net/images/pseudoshow_album.jpg</url>
+      <url>http://sunriserobot.net/images/pseudoshow/pseudoshow_album.jpg</url>
       <title>The Pseudo Show</title>
       <link>http://sunriserobot.net/pseudoshow</link>
     </image>
     <itunes:subtitle>The Pseudo Show</itunes:subtitle>
     <itunes:author>Michael Edwards and Justin Edwards</itunes:author>
     <itunes:summary>A peek into the lives of filmmakers, musicians, writers, and other artists, exploring their influences and origin stories.</itunes:summary>
-    <itunes:image href="http://sunriserobot.net/images/pseudoshow_album.jpg"/>
+    <itunes:image href="http://sunriserobot.net/images/pseudoshow/pseudoshow_album.jpg"/>
     <itunes:explicit>No</itunes:explicit>
     <itunes:owner>
       <itunes:name>Sunrise Robot</itunes:name>
@@ -22,9 +22,9 @@
     </itunes:owner>
     <itunes:category text="TV &amp; Film"/>
     <item>
-      <title>013 - Winter is Coming</title>
-      <link>http://sunriserobot.net/pseudoshow/013/</link>
-      <guid>http://sunriserobot.net/pseudoshow/013/</guid>
+      <title>13 - Winter is Coming</title>
+      <link>http://sunriserobot.net/pseudoshow/13/</link>
+      <guid>http://sunriserobot.net/pseudoshow/13/</guid>
       <pubDate>Tue, 02 Dec 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and Justin Edwards</author>
       <description>Meredith Strathmeyer, Candice Bergeron, and Damien Patterson of Wonderbound stop by to discuss Winter, the newest collaborative production of the ballet company.</description>
@@ -34,7 +34,7 @@
   &lt;li&gt;&lt;a href="http://wonderbound.com"&gt;Wonderbound homepage&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/013/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/13/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;The Pseudo Show is hosted by Michael Edwards and Justin Edwards. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Pseudo Show will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -44,12 +44,12 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:subtitle>Meredith Strathmeyer, Candice Bergeron, and Damien Patterson of Wonderbound stop by to discuss Winter, the newest collaborative production of the ballet company.</itunes:subtitle>
       <itunes:summary>Meredith Strathmeyer, Candice Bergeron, and Damien Patterson of Wonderbound stop by to discuss Winter, the newest collaborative production of the ballet company.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/pseudoshow_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/pseudoshow/pseudoshow_album.jpg"/>
     </item>
     <item>
-      <title>012 - The Man Behind Montropo</title>
-      <link>http://sunriserobot.net/pseudoshow/012/</link>
-      <guid>http://sunriserobot.net/pseudoshow/012/</guid>
+      <title>12 - The Man Behind Montropo</title>
+      <link>http://sunriserobot.net/pseudoshow/12/</link>
+      <guid>http://sunriserobot.net/pseudoshow/12/</guid>
       <pubDate>Mon, 10 Nov 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and Justin Edwards</author>
       <description>Andrés Diaz joins the podcast to discuss his latest musical project Montropo with the debut album Follow Me which has been over 2 years in the making. Learn how Michael and Andrés met and started playing music together.</description>
@@ -63,7 +63,7 @@
   &lt;li&gt;&lt;a href="http://pseudojustin.com/portfolio/come-back-to-me-%E2%80%A2-my-afi-thesis-film/"&gt;Come Back To Me - short film by Justin Edwards&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/013/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/13/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;The Pseudo Show is hosted by Michael Edwards and Justin Edwards. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Pseudo Show will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -73,12 +73,12 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:subtitle>Andrés Diaz joins the podcast to discuss his latest musical project Montropo with the debut album Follow Me which has been over 2 years in the making. Learn how Michael and Andrés met and started playing music together.</itunes:subtitle>
       <itunes:summary>Andrés Diaz joins the podcast to discuss his latest musical project Montropo with the debut album Follow Me which has been over 2 years in the making. Learn how Michael and Andrés met and started playing music together.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/pseudoshow_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/pseudoshow/pseudoshow_album.jpg"/>
     </item>
     <item>
-      <title>011 - It's Manhattan, Kansas. It's not like a Lot of Hype Can Get to You.</title>
-      <link>http://sunriserobot.net/pseudoshow/011/</link>
-      <guid>http://sunriserobot.net/pseudoshow/011/</guid>
+      <title>11 - It's Manhattan, Kansas. It's not like a Lot of Hype Can Get to You.</title>
+      <link>http://sunriserobot.net/pseudoshow/11/</link>
+      <guid>http://sunriserobot.net/pseudoshow/11/</guid>
       <pubDate>Fri, 26 Sep 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and Justin Edwards</author>
       <description>The Edwards brothers welcome their father Bruce on to talk about his pop culture influences from growing up in the 50s and 60s. Join us for the fascinating discussion, covering early television, the maturing of fantasy and sci-fi genres, seeing Star Wars Episode IV for the first time, and why Justin was allowed to watch Twin Peaks when he was 9 years old.</description>
@@ -99,7 +99,7 @@
   &lt;li&gt;&lt;a href="https://itunes.apple.com/gb/book/the-pseudobook/id509396187?mt=11"&gt;The Pseudobook, including Elite Aliens story&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/013/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/13/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;The Pseudo Show is hosted by Michael Edwards and Justin Edwards. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Pseudo Show will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -109,12 +109,12 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:subtitle>The Edwards brothers welcome their father Bruce on to talk about his pop culture influences from growing up in the 50s and 60s. Join us for the fascinating discussion, covering early television, the maturing of fantasy and sci-fi genres, seeing Star Wars Episode IV for the first time, and why Justin was allowed to watch Twin Peaks when he was 9 years old.</itunes:subtitle>
       <itunes:summary>The Edwards brothers welcome their father Bruce on to talk about his pop culture influences from growing up in the 50s and 60s. Join us for the fascinating discussion, covering early television, the maturing of fantasy and sci-fi genres, seeing Star Wars Episode IV for the first time, and why Justin was allowed to watch Twin Peaks when he was 9 years old.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/pseudoshow_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/pseudoshow/pseudoshow_album.jpg"/>
     </item>
     <item>
-      <title>010 - A Conversation with Sarah Tallman</title>
-      <link>http://sunriserobot.net/pseudoshow/010/</link>
-      <guid>http://sunriserobot.net/pseudoshow/010/</guid>
+      <title>10 - A Conversation with Sarah Tallman</title>
+      <link>http://sunriserobot.net/pseudoshow/10/</link>
+      <guid>http://sunriserobot.net/pseudoshow/10/</guid>
       <pubDate>Mon, 22 Sep 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and Justin Edwards</author>
       <description>Sarah Tallman, dancer and choreographer for  Wonderbound, sat down for an interview about her new piece prepared for the upcoming production Enduring Grace. Hear about Tallman's influences and creative process as well as the classical dance roots that underpin Wonderbound's modern take on dance, collaborative art and performance.</description>
@@ -126,7 +126,7 @@
   &lt;li&gt;&lt;a href="https://twitter.com/sarah_tallman"&gt;Follow @Sarah_Tallman on Twitter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/013/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/13/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;The Pseudo Show is hosted by Michael Edwards and Justin Edwards. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Pseudo Show will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -136,12 +136,12 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:subtitle>Sarah Tallman, dancer and choreographer for  Wonderbound, sat down for an interview about her new piece prepared for the upcoming production Enduring Grace. Hear about Tallman's influences and creative process as well as the classical dance roots that underpin Wonderbound's modern take on dance, collaborative art and performance.</itunes:subtitle>
       <itunes:summary>Sarah Tallman, dancer and choreographer for  Wonderbound, sat down for an interview about her new piece prepared for the upcoming production Enduring Grace. Hear about Tallman's influences and creative process as well as the classical dance roots that underpin Wonderbound's modern take on dance, collaborative art and performance.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/pseudoshow_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/pseudoshow/pseudoshow_album.jpg"/>
     </item>
     <item>
-      <title>009 - A Young Cruella De Vil</title>
-      <link>http://sunriserobot.net/pseudoshow/009/</link>
-      <guid>http://sunriserobot.net/pseudoshow/009/</guid>
+      <title>9 - A Young Cruella De Vil</title>
+      <link>http://sunriserobot.net/pseudoshow/9/</link>
+      <guid>http://sunriserobot.net/pseudoshow/9/</guid>
       <pubDate>Thu, 07 Aug 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and Justin Edwards</author>
       <description>Justin and Michael discuss the movies of 2014 (so far), separating the wheat from the chaff. Also, what genre or caliber of movie absolutely demands a theater viewing and where do you draw the line?</description>
@@ -152,7 +152,7 @@
   &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=uJfLoE6hanc"&gt;Birdman Trailer&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/013/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/13/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;The Pseudo Show is hosted by Michael Edwards and Justin Edwards. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Pseudo Show will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -162,12 +162,12 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:subtitle>Justin and Michael discuss the movies of 2014 (so far), separating the wheat from the chaff. Also, what genre or caliber of movie absolutely demands a theater viewing and where do you draw the line?</itunes:subtitle>
       <itunes:summary>Justin and Michael discuss the movies of 2014 (so far), separating the wheat from the chaff. Also, what genre or caliber of movie absolutely demands a theater viewing and where do you draw the line?</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/pseudoshow_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/pseudoshow/pseudoshow_album.jpg"/>
     </item>
     <item>
-      <title>008 - Meet Del Phoena</title>
-      <link>http://sunriserobot.net/pseudoshow/008/</link>
-      <guid>http://sunriserobot.net/pseudoshow/008/</guid>
+      <title>8 - Meet Del Phoena</title>
+      <link>http://sunriserobot.net/pseudoshow/8/</link>
+      <guid>http://sunriserobot.net/pseudoshow/8/</guid>
       <pubDate>Wed, 16 Jul 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and Justin Edwards</author>
       <description>Michael and guest-host Sam Worobec talk to Zach and Phoebe of the Portland-based indie-pop duo Del Phoena. In the middle of their first tour, and releasing their debut EP, they discuss how Del Phoena came together and their creative process.</description>
@@ -180,7 +180,7 @@
   &lt;li&gt;Also, &lt;a href="https://twitter.com/sworobec"&gt;follow @sworobec on Twitter&lt;/a&gt;!&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/013/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/13/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;The Pseudo Show is hosted by Michael Edwards and Justin Edwards. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Pseudo Show will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -190,12 +190,12 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:subtitle>Michael and guest-host Sam Worobec talk to Zach and Phoebe of the Portland-based indie-pop duo Del Phoena. In the middle of their first tour, and releasing their debut EP, they discuss how Del Phoena came together and their creative process.</itunes:subtitle>
       <itunes:summary>Michael and guest-host Sam Worobec talk to Zach and Phoebe of the Portland-based indie-pop duo Del Phoena. In the middle of their first tour, and releasing their debut EP, they discuss how Del Phoena came together and their creative process.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/pseudoshow_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/pseudoshow/pseudoshow_album.jpg"/>
     </item>
     <item>
-      <title>007 - Hey, I Ate At That Restaurant. It's Mine Now.</title>
-      <link>http://sunriserobot.net/pseudoshow/007/</link>
-      <guid>http://sunriserobot.net/pseudoshow/007/</guid>
+      <title>7 - Hey, I Ate At That Restaurant. It's Mine Now.</title>
+      <link>http://sunriserobot.net/pseudoshow/7/</link>
+      <guid>http://sunriserobot.net/pseudoshow/7/</guid>
       <pubDate>Wed, 28 May 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and Justin Edwards</author>
       <description>Shuchi Talati joins the show to discuss her work in film and storytelling, including her transition from fiction writing and literature studies to film, her experience in the directing program at the American Film Institute, and the joys (and sorrows) of trying to get a feature film made.</description>
@@ -208,7 +208,7 @@
   &lt;li&gt;&lt;a href="http://www.brainpickings.org/index.php/2014/05/23/the-long-game/"&gt;The Long Game - history's geniuses are actually losers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/013/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/13/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;The Pseudo Show is hosted by Michael Edwards and Justin Edwards. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Pseudo Show will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -218,25 +218,25 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:subtitle>Shuchi Talati joins the show to discuss her work in film and storytelling, including her transition from fiction writing and literature studies to film, her experience in the directing program at the American Film Institute, and the joys (and sorrows) of trying to get a feature film made.</itunes:subtitle>
       <itunes:summary>Shuchi Talati joins the show to discuss her work in film and storytelling, including her transition from fiction writing and literature studies to film, her experience in the directing program at the American Film Institute, and the joys (and sorrows) of trying to get a feature film made.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/pseudoshow_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/pseudoshow/pseudoshow_album.jpg"/>
     </item>
     <item>
-      <title>006 - We All Steal From The Past</title>
-      <link>http://sunriserobot.net/pseudoshow/006/</link>
-      <guid>http://sunriserobot.net/pseudoshow/006/</guid>
+      <title>6 - We All Steal From The Past</title>
+      <link>http://sunriserobot.net/pseudoshow/6/</link>
+      <guid>http://sunriserobot.net/pseudoshow/6/</guid>
       <pubDate>Tue, 20 May 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and Justin Edwards</author>
       <description>Denver-based singer-songwriter Jesse Manley joins to discuss his creative work in making folk music new again. From his collaborations with the modern ballet company Wonderbound on A Gothic Folktale to his continued work on his own live show, hear about how he is exploring early American folk, blues, and jazz music in all sorts of new collaborations.</description>
       <enclosure url="http://traffic.libsyn.com/sunriserobot/ps006.mp3" length="0" type="audio/mpeg"/>
       <content:encoded>&lt;p&gt;Denver-based singer-songwriter Jesse Manley joins to discuss his creative work in making folk music new again. From his collaborations with the modern ballet company Wonderbound on A Gothic Folktale to his continued work on his own live show, hear about how he is exploring early American folk, blues, and jazz music in all sorts of new collaborations.&lt;/p&gt;&lt;h1&gt;Show Notes&lt;/h1&gt;&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://www.jessemanley.com/"&gt;Jesse Manley’s website&lt;/a&gt; and &lt;a href="https://www.facebook.com/pages/Jesse-Manley/171341942915033"&gt;Facebook page&lt;/a&gt; &lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=-8zVruLbVds"&gt;Jesse performing “Everything That Is” on Open Air CPR&lt;/a&gt; &lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=gYKHhPLOIxY"&gt;Jesse performing “Millie and Christine” on Open Air CPR&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.jessemanley.com/"&gt;Jesse Manley’s website&lt;/a&gt; and &lt;a href="https://www.facebook.com/pages/Jesse-Manley/171341942915033"&gt;Facebook page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=-8zVruLbVds"&gt;Jesse performing “Everything That Is” on Open Air CPR&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=gYKHhPLOIxY"&gt;Jesse performing “Millie and Christine” on Open Air CPR&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=gBJJZ96epbg"&gt;Jean Ritchie - Careless Love&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=9gytJemzNTM"&gt;Mississippi John Hurt - Lonesome Valley&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/013/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/13/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;The Pseudo Show is hosted by Michael Edwards and Justin Edwards. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Pseudo Show will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -246,12 +246,12 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:subtitle>Denver-based singer-songwriter Jesse Manley joins to discuss his creative work in making folk music new again. From his collaborations with the modern ballet company Wonderbound on A Gothic Folktale to his continued work on his own live show, hear about how he is exploring early American folk, blues, and jazz music in all sorts of new collaborations.</itunes:subtitle>
       <itunes:summary>Denver-based singer-songwriter Jesse Manley joins to discuss his creative work in making folk music new again. From his collaborations with the modern ballet company Wonderbound on A Gothic Folktale to his continued work on his own live show, hear about how he is exploring early American folk, blues, and jazz music in all sorts of new collaborations.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/pseudoshow_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/pseudoshow/pseudoshow_album.jpg"/>
     </item>
     <item>
-      <title>005 - Green Check Marks</title>
-      <link>http://sunriserobot.net/pseudoshow/005/</link>
-      <guid>http://sunriserobot.net/pseudoshow/005/</guid>
+      <title>5 - Green Check Marks</title>
+      <link>http://sunriserobot.net/pseudoshow/5/</link>
+      <guid>http://sunriserobot.net/pseudoshow/5/</guid>
       <pubDate>Mon, 05 May 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and Justin Edwards</author>
       <description>Justin and Michael welcome their first overseas guest in the form of Matt Duncan. Listen and learn about Matt's musical projects The Astray and Salt The Skies, his seriously impressive cosplay hobby, how he met Michael through Radio Reddit, and, of course, a comprehensive and nuanced appraisal of German and American politics. Ok, maybe not so much that last thing.</description>
@@ -266,7 +266,7 @@
   &lt;li&gt;&lt;a href="http://www.reddit.com/r/explainlikeimfive"&gt;ELI5 subreddit (Explain It Like I'm Five)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/013/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/13/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;The Pseudo Show is hosted by Michael Edwards and Justin Edwards. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Pseudo Show will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -276,12 +276,12 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:subtitle>Justin and Michael welcome their first overseas guest in the form of Matt Duncan. Listen and learn about Matt's musical projects The Astray and Salt The Skies, his seriously impressive cosplay hobby, how he met Michael through Radio Reddit, and, of course, a comprehensive and nuanced appraisal of German and American politics. Ok, maybe not so much that last thing.</itunes:subtitle>
       <itunes:summary>Justin and Michael welcome their first overseas guest in the form of Matt Duncan. Listen and learn about Matt's musical projects The Astray and Salt The Skies, his seriously impressive cosplay hobby, how he met Michael through Radio Reddit, and, of course, a comprehensive and nuanced appraisal of German and American politics. Ok, maybe not so much that last thing.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/pseudoshow_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/pseudoshow/pseudoshow_album.jpg"/>
     </item>
     <item>
-      <title>004 - PlayStations and Paradiddles</title>
-      <link>http://sunriserobot.net/pseudoshow/004/</link>
-      <guid>http://sunriserobot.net/pseudoshow/004/</guid>
+      <title>4 - PlayStations and Paradiddles</title>
+      <link>http://sunriserobot.net/pseudoshow/4/</link>
+      <guid>http://sunriserobot.net/pseudoshow/4/</guid>
       <pubDate>Mon, 28 Apr 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and Justin Edwards</author>
       <description>Benji Robinson, a longtime friend of the Edwards brothers, joins the show to talk about his freelance video and audio production company, his 80s synth project, maxing out the voice memo storage on his phone with song ideas, and his experience as co-composer of the Detective Detective Detective soundtrack.</description>
@@ -295,7 +295,7 @@
   &lt;li&gt;&lt;a href="http://twitter.com/benjirobinson"&gt;Follow @benjirobinson on Twitter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/013/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/pseudoshow/13/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;The Pseudo Show is hosted by Michael Edwards and Justin Edwards. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Pseudo Show will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -305,7 +305,7 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:subtitle>Benji Robinson, a longtime friend of the Edwards brothers, joins the show to talk about his freelance video and audio production company, his 80s synth project, maxing out the voice memo storage on his phone with song ideas, and his experience as co-composer of the Detective Detective Detective soundtrack.</itunes:subtitle>
       <itunes:summary>Benji Robinson, a longtime friend of the Edwards brothers, joins the show to talk about his freelance video and audio production company, his 80s synth project, maxing out the voice memo storage on his phone with song ideas, and his experience as co-composer of the Detective Detective Detective soundtrack.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/pseudoshow_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/pseudoshow/pseudoshow_album.jpg"/>
     </item>
   </channel>
 </rss>

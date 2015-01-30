@@ -7,14 +7,14 @@
     <language>en-us</language>
     <copyright>Copyright 2015 Matt Duncan and Michael Edwards</copyright>
     <image>
-      <url>http://sunriserobot.net/images/bitspieces_album.png</url>
+      <url>http://sunriserobot.net/images/bitsandpieces/bitspieces_album.png</url>
       <title>Bits &amp; Pieces</title>
       <link>http://sunriserobot.net/bitsandpieces</link>
     </image>
     <itunes:subtitle>Bits &amp; Pieces</itunes:subtitle>
     <itunes:author>Matt Duncan and Michael Edwards</itunes:author>
     <itunes:summary>An examination of the world of music as listeners and creators, including trends in the industry and the elements of success.</itunes:summary>
-    <itunes:image href="http://sunriserobot.net/images/bitspieces_album.png"/>
+    <itunes:image href="http://sunriserobot.net/images/bitsandpieces/bitspieces_album.png"/>
     <itunes:explicit>No</itunes:explicit>
     <itunes:owner>
       <itunes:name>Sunrise Robot</itunes:name>
@@ -43,7 +43,7 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:subtitle>Dem bits. Dem pieces.</itunes:subtitle>
       <itunes:summary>Dem bits. Dem pieces.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/bitspieces_album.png"/>
+      <itunes:image href="http://sunriserobot.net/images/bitsandpieces/bitspieces_album.png"/>
     </item>
   </channel>
 </rss>

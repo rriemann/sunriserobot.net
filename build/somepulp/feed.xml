@@ -7,14 +7,14 @@
     <language>en-us</language>
     <copyright>Copyright 2015 Bruce Edwards</copyright>
     <image>
-      <url>http://sunriserobot.net/images/somepulp_album.jpg</url>
+      <url>http://sunriserobot.net/images/somepulp/somepulp_album.jpg</url>
       <title>Some Pulp</title>
       <link>http://sunriserobot.net/somepulp</link>
     </image>
     <itunes:subtitle>Some Pulp</itunes:subtitle>
     <itunes:author>Bruce Edwards</itunes:author>
     <itunes:summary>A retrospective meditation on media, art, and technology from the 1950s onward.</itunes:summary>
-    <itunes:image href="http://sunriserobot.net/images/somepulp_album.jpg"/>
+    <itunes:image href="http://sunriserobot.net/images/somepulp/somepulp_album.jpg"/>
     <itunes:explicit>No</itunes:explicit>
     <itunes:owner>
       <itunes:name>Sunrise Robot</itunes:name>
@@ -43,7 +43,7 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:subtitle>Dat Pulp.</itunes:subtitle>
       <itunes:summary>Dat Pulp.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/somepulp_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/somepulp/somepulp_album.jpg"/>
     </item>
   </channel>
 </rss>

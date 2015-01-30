@@ -7,14 +7,14 @@
     <language>en-us</language>
     <copyright>Copyright 2015 Michael Edwards and David Lyons</copyright>
     <image>
-      <url>http://sunriserobot.net/images/flippingtables_album.jpg</url>
+      <url>http://sunriserobot.net/images/flippingtables/flippingtables_album.jpg</url>
       <title>Flipping Tables</title>
       <link>http://sunriserobot.net/flippingtables</link>
     </image>
     <itunes:subtitle>Flipping Tables</itunes:subtitle>
     <itunes:author>Michael Edwards and David Lyons</itunes:author>
     <itunes:summary>A weekly discussion of the latest developments in technology, gaming, and culture.</itunes:summary>
-    <itunes:image href="http://sunriserobot.net/images/flippingtables_album.jpg"/>
+    <itunes:image href="http://sunriserobot.net/images/flippingtables/flippingtables_album.jpg"/>
     <itunes:explicit>No</itunes:explicit>
     <itunes:owner>
       <itunes:name>Sunrise Robot</itunes:name>
@@ -22,9 +22,9 @@
     </itunes:owner>
     <itunes:category text="Technology"/>
     <item>
-      <title>051 - Sport Puck</title>
-      <link>http://sunriserobot.net/flippingtables/051/</link>
-      <guid>http://sunriserobot.net/flippingtables/051/</guid>
+      <title>51 - Sport Puck</title>
+      <link>http://sunriserobot.net/flippingtables/51/</link>
+      <guid>http://sunriserobot.net/flippingtables/51/</guid>
       <pubDate>Tue, 27 Jan 2015 00:00:00 GMT</pubDate>
       <author>Michael Edwards and David Lyons</author>
       <description>It's still a speedrun even if you use exploits. In fact that's kind of the point. Blackberry wants to win through legislation. Comcast and Twitter; still terrible after all these months. And as Google sunsets the Glass Explorer program, Microsoft debuts HoloLens.</description>
@@ -45,7 +45,7 @@
   &lt;li&gt;&lt;a href="http://arstechnica.com/gadgets/2015/01/hands-on-with-hololens-making-the-virtual-real/"&gt;Hands-on: Microsoft’s HoloLens is flat-out magical&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/051/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/51/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;Flipping Tables is hosted by Michael Edwards and David Lyons. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Flipping Tables will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -55,12 +55,12 @@
       <itunes:duration>01:08:53</itunes:duration>
       <itunes:subtitle>It's still a speedrun even if you use exploits. In fact that's kind of the point. Blackberry wants to win through legislation. Comcast and Twitter; still terrible after all these months. And as Google sunsets the Glass Explorer program, Microsoft debuts HoloLens.</itunes:subtitle>
       <itunes:summary>It's still a speedrun even if you use exploits. In fact that's kind of the point. Blackberry wants to win through legislation. Comcast and Twitter; still terrible after all these months. And as Google sunsets the Glass Explorer program, Microsoft debuts HoloLens.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/flippingtables_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/flippingtables/flippingtables_album.jpg"/>
     </item>
     <item>
-      <title>050 - Maximum Computer Smartness</title>
-      <link>http://sunriserobot.net/flippingtables/050/</link>
-      <guid>http://sunriserobot.net/flippingtables/050/</guid>
+      <title>50 - Maximum Computer Smartness</title>
+      <link>http://sunriserobot.net/flippingtables/50/</link>
+      <guid>http://sunriserobot.net/flippingtables/50/</guid>
       <pubDate>Wed, 21 Jan 2015 00:00:00 GMT</pubDate>
       <author>Michael Edwards and David Lyons</author>
       <description>Smash Bros. is still fun after all these years. Mike and Lyons are going to track their internet usage. And the #SOTU shall be tweeted, youtubed, instagramed, and other Web 2.0 buzz words. Will policy actually improve though? That remains to be seen.</description>
@@ -79,7 +79,7 @@
 &lt;/ul&gt;
 
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/051/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/51/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;Flipping Tables is hosted by Michael Edwards and David Lyons. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Flipping Tables will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -89,12 +89,12 @@
       <itunes:duration>01:00:26</itunes:duration>
       <itunes:subtitle>Smash Bros. is still fun after all these years. Mike and Lyons are going to track their internet usage. And the #SOTU shall be tweeted, youtubed, instagramed, and other Web 2.0 buzz words. Will policy actually improve though? That remains to be seen.</itunes:subtitle>
       <itunes:summary>Smash Bros. is still fun after all these years. Mike and Lyons are going to track their internet usage. And the #SOTU shall be tweeted, youtubed, instagramed, and other Web 2.0 buzz words. Will policy actually improve though? That remains to be seen.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/flippingtables_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/flippingtables/flippingtables_album.jpg"/>
     </item>
     <item>
-      <title>049 - Everything I Know About Him Is That He Is A Miserable Failure</title>
-      <link>http://sunriserobot.net/flippingtables/049/</link>
-      <guid>http://sunriserobot.net/flippingtables/049/</guid>
+      <title>49 - Everything I Know About Him Is That He Is A Miserable Failure</title>
+      <link>http://sunriserobot.net/flippingtables/49/</link>
+      <guid>http://sunriserobot.net/flippingtables/49/</guid>
       <pubDate>Tue, 13 Jan 2015 00:00:00 GMT</pubDate>
       <author>Michael Edwards and David Lyons</author>
       <description>CES 2015 is over and we're not going to recap it because we're better than that, but we will talk about it. Just the interesting parts though. Promise. Also, RealPlayer thinks they're a startup now?</description>
@@ -113,7 +113,7 @@
   &lt;li&gt;&lt;a href="http://www.engadget.com/2014/01/08/sharp-85-inch-8k-3d-tv/"&gt;Here's Sharp's 85-inch 8K TV with glasses-free 3D&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/051/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/51/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;Flipping Tables is hosted by Michael Edwards and David Lyons. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Flipping Tables will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -123,12 +123,12 @@
       <itunes:duration>00:50:35</itunes:duration>
       <itunes:subtitle>CES 2015 is over and we're not going to recap it because we're better than that, but we will talk about it. Just the interesting parts though. Promise. Also, RealPlayer thinks they're a startup now?</itunes:subtitle>
       <itunes:summary>CES 2015 is over and we're not going to recap it because we're better than that, but we will talk about it. Just the interesting parts though. Promise. Also, RealPlayer thinks they're a startup now?</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/flippingtables_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/flippingtables/flippingtables_album.jpg"/>
     </item>
     <item>
-      <title>048 - Buy Other Rectangles</title>
-      <link>http://sunriserobot.net/flippingtables/048/</link>
-      <guid>http://sunriserobot.net/flippingtables/048/</guid>
+      <title>48 - Buy Other Rectangles</title>
+      <link>http://sunriserobot.net/flippingtables/48/</link>
+      <guid>http://sunriserobot.net/flippingtables/48/</guid>
       <pubDate>Tue, 06 Jan 2015 00:00:00 GMT</pubDate>
       <author>Michael Edwards and David Lyons</author>
       <description>Marriott proves they hate you by blocking your wifi devices. Mike and Lyons still haven't found the wearables they're looking for. And fan-made games are sometimes better than the originals; particularly when they play themselves!</description>
@@ -149,7 +149,7 @@
   &lt;li&gt;&lt;a href="http://1n73r.net/2015/01/01/2015-predictions/"&gt;Justin Garrison’s 2015 Technology Predictions&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/051/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/51/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;Flipping Tables is hosted by Michael Edwards and David Lyons. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Flipping Tables will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -159,12 +159,12 @@
       <itunes:duration>01:07:02</itunes:duration>
       <itunes:subtitle>Marriott proves they hate you by blocking your wifi devices. Mike and Lyons still haven't found the wearables they're looking for. And fan-made games are sometimes better than the originals; particularly when they play themselves!</itunes:subtitle>
       <itunes:summary>Marriott proves they hate you by blocking your wifi devices. Mike and Lyons still haven't found the wearables they're looking for. And fan-made games are sometimes better than the originals; particularly when they play themselves!</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/flippingtables_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/flippingtables/flippingtables_album.jpg"/>
     </item>
     <item>
-      <title>047 - Winning Is More Important Than Our Friendship</title>
-      <link>http://sunriserobot.net/flippingtables/047/</link>
-      <guid>http://sunriserobot.net/flippingtables/047/</guid>
+      <title>47 - Winning Is More Important Than Our Friendship</title>
+      <link>http://sunriserobot.net/flippingtables/47/</link>
+      <guid>http://sunriserobot.net/flippingtables/47/</guid>
       <pubDate>Tue, 30 Dec 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and David Lyons</author>
       <description>Get any good games for Christmas? Too bad you didn't get to play them thanks to DDoS attacks against the PSN and Xbox Live. At least you had the option to watch The Interview on Youtube. Win?</description>
@@ -178,7 +178,7 @@
   &lt;li&gt;&lt;a href="http://kotaku.com/xbox-live-and-playstation-network-are-having-problems-t-1675130891"&gt;Xbox Live And PlayStation Network Knocked Offline For Much Of Christmas&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/051/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/51/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;Flipping Tables is hosted by Michael Edwards and David Lyons. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Flipping Tables will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -188,12 +188,12 @@
       <itunes:duration>01:05:20</itunes:duration>
       <itunes:subtitle>Get any good games for Christmas? Too bad you didn't get to play them thanks to DDoS attacks against the PSN and Xbox Live. At least you had the option to watch The Interview on Youtube. Win?</itunes:subtitle>
       <itunes:summary>Get any good games for Christmas? Too bad you didn't get to play them thanks to DDoS attacks against the PSN and Xbox Live. At least you had the option to watch The Interview on Youtube. Win?</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/flippingtables_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/flippingtables/flippingtables_album.jpg"/>
     </item>
     <item>
-      <title>046 - I Don’t Like The Level of Maturity Required</title>
-      <link>http://sunriserobot.net/flippingtables/046/</link>
-      <guid>http://sunriserobot.net/flippingtables/046/</guid>
+      <title>46 - I Don’t Like The Level of Maturity Required</title>
+      <link>http://sunriserobot.net/flippingtables/46/</link>
+      <guid>http://sunriserobot.net/flippingtables/46/</guid>
       <pubDate>Tue, 23 Dec 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and David Lyons</author>
       <description>Lyons spends a week with Mike's Pebble smartwatch. And the Sony hack. 300TB of data stolen, a (likely terrible) movie canceled, thousands of employees personal information exposed. It's bad, baby. Real bad.</description>
@@ -210,7 +210,7 @@
 &lt;/ul&gt;
 
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/051/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/51/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;Flipping Tables is hosted by Michael Edwards and David Lyons. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Flipping Tables will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -220,12 +220,12 @@
       <itunes:duration>01:03:04</itunes:duration>
       <itunes:subtitle>Lyons spends a week with Mike's Pebble smartwatch. And the Sony hack. 300TB of data stolen, a (likely terrible) movie canceled, thousands of employees personal information exposed. It's bad, baby. Real bad.</itunes:subtitle>
       <itunes:summary>Lyons spends a week with Mike's Pebble smartwatch. And the Sony hack. 300TB of data stolen, a (likely terrible) movie canceled, thousands of employees personal information exposed. It's bad, baby. Real bad.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/flippingtables_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/flippingtables/flippingtables_album.jpg"/>
     </item>
     <item>
-      <title>045 - Sonic On Gamegear Is Not A Good Look</title>
-      <link>http://sunriserobot.net/flippingtables/045/</link>
-      <guid>http://sunriserobot.net/flippingtables/045/</guid>
+      <title>45 - Sonic On Gamegear Is Not A Good Look</title>
+      <link>http://sunriserobot.net/flippingtables/45/</link>
+      <guid>http://sunriserobot.net/flippingtables/45/</guid>
       <pubDate>Wed, 17 Dec 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and David Lyons</author>
       <description>Lyons rights an ancient wrong by finally playing GoldenEye. Teens play Megaman and are surprisingly optimistic about how bad they are. Gangnam Style actually breaks Youtube. And Pebble finds a way to stay in the game a little longer.</description>
@@ -240,7 +240,7 @@
   &lt;li&gt;&lt;a href="https://blog.getpebble.com/2014/12/16/ad-23/"&gt;Lights, Smartwatch, Action: Android Wear notifications come to Pebble (Release Notes)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/051/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/51/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;Flipping Tables is hosted by Michael Edwards and David Lyons. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Flipping Tables will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -250,12 +250,12 @@
       <itunes:duration>00:54:59</itunes:duration>
       <itunes:subtitle>Lyons rights an ancient wrong by finally playing GoldenEye. Teens play Megaman and are surprisingly optimistic about how bad they are. Gangnam Style actually breaks Youtube. And Pebble finds a way to stay in the game a little longer.</itunes:subtitle>
       <itunes:summary>Lyons rights an ancient wrong by finally playing GoldenEye. Teens play Megaman and are surprisingly optimistic about how bad they are. Gangnam Style actually breaks Youtube. And Pebble finds a way to stay in the game a little longer.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/flippingtables_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/flippingtables/flippingtables_album.jpg"/>
     </item>
     <item>
-      <title>044 - Balloons That Rain Down Wifi on Africa</title>
-      <link>http://sunriserobot.net/flippingtables/044/</link>
-      <guid>http://sunriserobot.net/flippingtables/044/</guid>
+      <title>44 - Balloons That Rain Down Wifi on Africa</title>
+      <link>http://sunriserobot.net/flippingtables/44/</link>
+      <guid>http://sunriserobot.net/flippingtables/44/</guid>
       <pubDate>Wed, 10 Dec 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and David Lyons</author>
       <description>Square Enix continues trolling the world by releasing the original FFVII on PS4 like it was a big deal, and the 3D version of FFIV on Steam as if that was the version we wanted. Suikoden proves some games can cast off RPG tropes. Wire is yet another revolutionary chat app. And Google fixes the CAPTCHA.</description>
@@ -273,7 +273,7 @@
   &lt;li&gt;&lt;a href="https://twitter.com/howtogeek/status/541352629310619649"&gt;The HowToGeek on Amazon brand diapers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/051/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/51/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;Flipping Tables is hosted by Michael Edwards and David Lyons. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Flipping Tables will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -283,12 +283,12 @@
       <itunes:duration>00:59:05</itunes:duration>
       <itunes:subtitle>Square Enix continues trolling the world by releasing the original FFVII on PS4 like it was a big deal, and the 3D version of FFIV on Steam as if that was the version we wanted. Suikoden proves some games can cast off RPG tropes. Wire is yet another revolutionary chat app. And Google fixes the CAPTCHA.</itunes:subtitle>
       <itunes:summary>Square Enix continues trolling the world by releasing the original FFVII on PS4 like it was a big deal, and the 3D version of FFIV on Steam as if that was the version we wanted. Suikoden proves some games can cast off RPG tropes. Wire is yet another revolutionary chat app. And Google fixes the CAPTCHA.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/flippingtables_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/flippingtables/flippingtables_album.jpg"/>
     </item>
     <item>
-      <title>043 - I Just Assumed I Would Have Bread Forever</title>
-      <link>http://sunriserobot.net/flippingtables/043/</link>
-      <guid>http://sunriserobot.net/flippingtables/043/</guid>
+      <title>43 - I Just Assumed I Would Have Bread Forever</title>
+      <link>http://sunriserobot.net/flippingtables/43/</link>
+      <guid>http://sunriserobot.net/flippingtables/43/</guid>
       <pubDate>Tue, 02 Dec 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and David Lyons</author>
       <description>How do you deal with rape threats on the internet? Tell the perpetrator's mother! Twitter is spying on the apps you have installed because they can't stop being terrible. Apple breaks its own rules and sends unwanted push notifications. Flickr decides to sell your photos. And Google makes paying to remove ads an option.</description>
@@ -303,7 +303,7 @@
   &lt;li&gt;&lt;a href="http://www.theguardian.com/technology/2014/nov/21/google-contributor-pay-remove-ads"&gt;Google Contributor: can I really pay to remove ads?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/051/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/51/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;Flipping Tables is hosted by Michael Edwards and David Lyons. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Flipping Tables will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -313,12 +313,12 @@
       <itunes:duration>00:54:46</itunes:duration>
       <itunes:subtitle>How do you deal with rape threats on the internet? Tell the perpetrator's mother! Twitter is spying on the apps you have installed because they can't stop being terrible. Apple breaks its own rules and sends unwanted push notifications. Flickr decides to sell your photos. And Google makes paying to remove ads an option.</itunes:subtitle>
       <itunes:summary>How do you deal with rape threats on the internet? Tell the perpetrator's mother! Twitter is spying on the apps you have installed because they can't stop being terrible. Apple breaks its own rules and sends unwanted push notifications. Flickr decides to sell your photos. And Google makes paying to remove ads an option.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/flippingtables_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/flippingtables/flippingtables_album.jpg"/>
     </item>
     <item>
-      <title>042 - Hit Me With Your Gunblade</title>
-      <link>http://sunriserobot.net/flippingtables/042/</link>
-      <guid>http://sunriserobot.net/flippingtables/042/</guid>
+      <title>42 - Hit Me With Your Gunblade</title>
+      <link>http://sunriserobot.net/flippingtables/42/</link>
+      <guid>http://sunriserobot.net/flippingtables/42/</guid>
       <pubDate>Tue, 25 Nov 2014 00:00:00 GMT</pubDate>
       <author>Michael Edwards and David Lyons</author>
       <description>How has Nintendo avoided shipping broken games? Maybe skipping DLC holds you to a higher standard. Uber's awfulness hopefully paves the way for competition. And Lyons geeks out of Final Fantasy VI.</description>
@@ -335,7 +335,7 @@
   &lt;li&gt;&lt;a href="http://i.imgur.com/u7peUtC.jpg"&gt;I'm sorry we didn't have polygons left for you, Cid&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/051/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://sunriserobot.net/flippingtables/51/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
 &lt;p&gt;Flipping Tables is hosted by Michael Edwards and David Lyons. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Flipping Tables will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
@@ -345,7 +345,7 @@
       <itunes:duration>01:33:33</itunes:duration>
       <itunes:subtitle>How has Nintendo avoided shipping broken games? Maybe skipping DLC holds you to a higher standard. Uber's awfulness hopefully paves the way for competition. And Lyons geeks out of Final Fantasy VI.</itunes:subtitle>
       <itunes:summary>How has Nintendo avoided shipping broken games? Maybe skipping DLC holds you to a higher standard. Uber's awfulness hopefully paves the way for competition. And Lyons geeks out of Final Fantasy VI.</itunes:summary>
-      <itunes:image href="http://sunriserobot.net/images/flippingtables_album.jpg"/>
+      <itunes:image href="http://sunriserobot.net/images/flippingtables/flippingtables_album.jpg"/>
     </item>
   </channel>
 </rss>
