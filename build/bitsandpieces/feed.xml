@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Bits &amp; Pieces</title>
+    <link>http://sunriserobot.net/bitsandpieces</link>
+    <description>An examination of the world of music as listeners and creators, including trends in the industry and the elements of success.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2015 Matt Duncan and Michael Edwards</copyright>
+    <image>
+      <url>http://sunriserobot.net/images/bitspieces_album.png</url>
+      <title>Bits &amp; Pieces</title>
+      <link>http://sunriserobot.net/bitsandpieces</link>
+    </image>
+    <itunes:subtitle>Bits &amp; Pieces</itunes:subtitle>
+    <itunes:author>Matt Duncan and Michael Edwards</itunes:author>
+    <itunes:summary>An examination of the world of music as listeners and creators, including trends in the industry and the elements of success.</itunes:summary>
+    <itunes:image href="http://sunriserobot.net/images/bitspieces_album.png"/>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Sunrise Robot</itunes:name>
+      <itunes:email>hello@sunriserobot.net</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Music"/>
+    <item>
+      <title>1 - Always The Room For Bits</title>
+      <link>http://sunriserobot.net/bitsandpieces/1/</link>
+      <guid>http://sunriserobot.net/bitsandpieces/1/</guid>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 GMT</pubDate>
+      <author>Matt Duncan and Michael Edwards</author>
+      <description>Dem bits. Dem pieces.</description>
+      <enclosure url="http://traffic.libsyn.com/sunriserobot/bp1.mp3" length="0" type="audio/mpeg"/>
+      <content:encoded>&lt;p&gt;Dem bits. Dem pieces.&lt;/p&gt;&lt;h1&gt;Show Notes&lt;/h1&gt;&lt;ul&gt;
+  &lt;li&gt;&lt;a href="#"&gt;#Butts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="http://sunriserobot.net/bitsandpieces/1/"&gt;View show notes on Sunrise Robot.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Discuss this episode:&lt;br&gt;Twitter | Facebook | Google+&lt;/p&gt;
+&lt;p&gt;Bits &amp; Pieces is hosted by Matt Duncan and Michael Edwards. Check out other Sunrise Robot shows at &lt;a href="http://sunriserobot.net"&gt;sunriserobot.net&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Bits &amp; Pieces will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!&lt;/p&gt;
+&lt;p&gt;&lt;a href=""&gt;Rate Bits &amp; Pieces on iTunes!&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Matt Duncan and Michael Edwards</itunes:author>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:subtitle>Dem bits. Dem pieces.</itunes:subtitle>
+      <itunes:summary>Dem bits. Dem pieces.</itunes:summary>
+      <itunes:image href="http://sunriserobot.net/images/bitspieces_album.png"/>
+    </item>
+  </channel>
+</rss>

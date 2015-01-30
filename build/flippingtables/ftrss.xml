@@ -3,7 +3,7 @@
   <channel>
     <title>Flipping Tables</title>
     <link>http://flippingtablespodcast.com</link>
-    <description>Flipping Tables is a show about technology, gaming, and culture.</description>
+    <description>A weekly discussion of the latest developments in technology, gaming, and culture.</description>
     <language>en-us</language>
     <copyright>Copyright 2015 Michael Edwards and David Lyons</copyright>
     <image>
@@ -13,7 +13,7 @@
     </image>
     <itunes:subtitle>Flipping Tables</itunes:subtitle>
     <itunes:author>Michael Edwards and David Lyons</itunes:author>
-    <itunes:summary>Flipping Tables is a show about technology, gaming, and culture.</itunes:summary>
+    <itunes:summary>A weekly discussion of the latest developments in technology, gaming, and culture.</itunes:summary>
     <itunes:image href="https://flippingtables.ghost.io/content/images/2014/Jul/FT_NewSquareArt.jpg"/>
     <itunes:explicit>No</itunes:explicit>
     <itunes:owner>
@@ -28,7 +28,7 @@
       <pubDate>Tue, 27 Jan 2015 00:00:00 GMT</pubDate>
       <author>Michael Edwards and David Lyons</author>
       <description>It's still a speedrun even if you use exploits. In fact that's kind of the point. Blackberry wants to win through legislation. Comcast and Twitter; still terrible after all these months. And as Google sunsets the Glass Explorer program, Microsoft debuts HoloLens.</description>
-      <enclosure url="http://traffic.libsyn.com/sunriserobot/ft051.mp3" length="34314768" type="audio/mpeg"/>
+      <enclosure url="http://traffic.libsyn.com/sunriserobot/ft051.mp3" length="34098683" type="audio/mpeg"/>
       <content:encoded>&lt;p&gt;It's still a speedrun even if you use exploits. In fact that's kind of the point. Blackberry wants to win through legislation. Comcast and Twitter; still terrible after all these months. And as Google sunsets the Glass Explorer program, Microsoft debuts HoloLens.&lt;/p&gt;&lt;h1&gt;Show Notes&lt;/h1&gt;&lt;ul&gt;
   &lt;li&gt;&lt;a href="http://podcastawards.com/"&gt;Podcast Awards&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/rothgar/status/559127717627854848"&gt;@rothgar nominate Flipping Tables for best gaming podcast&lt;/a&gt;&lt;/li&gt;
@@ -46,7 +46,7 @@
 &lt;/ul&gt;
 </content:encoded>
       <itunes:author>Michael Edwards and David Lyons</itunes:author>
-      <itunes:duration>01:09:20</itunes:duration>
+      <itunes:duration>01:08:53</itunes:duration>
       <itunes:subtitle>It's still a speedrun even if you use exploits. In fact that's kind of the point. Blackberry wants to win through legislation. Comcast and Twitter; still terrible after all these months. And as Google sunsets the Glass Explorer program, Microsoft debuts HoloLens.</itunes:subtitle>
       <itunes:summary>It's still a speedrun even if you use exploits. In fact that's kind of the point. Blackberry wants to win through legislation. Comcast and Twitter; still terrible after all these months. And as Google sunsets the Glass Explorer program, Microsoft debuts HoloLens.</itunes:summary>
       <itunes:image href="https://flippingtables.ghost.io/content/images/2014/Jul/FT_NewSquareArt.jpg"/>

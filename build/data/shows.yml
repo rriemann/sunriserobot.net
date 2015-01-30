@@ -9,15 +9,63 @@
         twitter: "lyonsinbeta",
         website: "lyonsinbeta.com",
         photo: "davidlyons.jpg" }
-  description: "Flipping Tables is a show about technology, gaming, and culture."
+  description: "A weekly discussion of the latest developments in technology, gaming, and culture."
   album_art: "flippingtables_album.jpg"
   email: "hello@sunriserobot.net"
   category: "Technology"
   itunes: "https://itunes.apple.com/us/podcast/flipping-tables/id820841907"
 - prefix: "pseudoshow"
-  title: "Pseudo Show"
+  title: "The Pseudo Show"
   hosts:
-    - { name: "Michael Edwards", twitter: "medwardsmusic", website: "pseudomichael.com" }
-    - { name: "Justin Edwards", twitter: "pseudojustin", website: "pseudojustin.com" }
-  description: "DAT FUCKING SHOW"
+    - { name: "Michael Edwards",
+        twitter: "medwardsmusic",
+        website: "pseudomichael.com",
+        photo: "michaeledwards.jpg" }
+    - { name: "Justin Edwards",
+        twitter: "pseudojustin",
+        website: "pseudojustin.com",
+        photo: "justinedwards.jpg" }
+  description: "A peek into the lives of filmmakers, musicians, writers, and other artists, exploring their influences and origin stories."
   album_art: "pseudoshow_album.jpg"
+  email: "hello@sunriserobot.net"
+  category: "TV & Film"
+  itunes: "https://itunes.apple.com/us/podcast/pseudobook-podcast/id858823896"
+- prefix: "bitsandpieces"
+  title: "Bits & Pieces"
+  hosts:
+    - { name: "Matt Duncan",
+        twitter: "echolox",
+        website: "facebook.com/echolox",
+        photo: "mattduncan.jpg" }
+    - { name: "Michael Edwards",
+        twitter: "medwardsmusic",
+        website: "pseudomichael.com",
+        photo: "michaeledwards.jpg" }
+  description: "An examination of the world of music as listeners and creators, including trends in the industry and the elements of success."
+  album_art: "bitspieces_album.png"
+  email: "hello@sunriserobot.net"
+  category: "Music"
+- prefix: "somepulp"
+  title: "Some Pulp"
+  hosts:
+    - { name: "Bruce Edwards",
+        twitter: "bruceledwards",
+        website: "aslandad.com",
+        photo: "bruceedwards.jpg" }
+  description: "A retrospective meditation on media, art, and technology from the 1950s onward."
+  album_art: "somepulp_album.jpg"
+  email: "hello@sunriserobot.net"
+  category: "TV & Film"
+- prefix: "likelystory"
+  title: "Likely Story"
+  hosts:
+    - { name: "Shelby Edwards",
+        twitter: "shelbyelizabeth",
+        photo: "shelbyedwards.jpg" }
+    - { name: "Polly Kyle",
+        twitter: "pollyannek",
+        photo: "pollykyle.jpg" }
+  description: "The ongoing adventures of Shelby and Polly, young women riffing on sports, movies, books and life in Colorado."
+  album_art: "likelystory_album.jpg"
+  email: "hello@sunriserobot.net"
+  category: "TV & Film"
