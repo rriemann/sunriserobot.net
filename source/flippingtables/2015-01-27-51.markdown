@@ -1,0 +1,22 @@
+---
+number: "51"
+title: "Sport Puck"
+pubDate: "2015-01-27"
+description: "It's still a speedrun even if you use exploits. In fact that's kind of the point. Blackberry wants to win through legislation. Comcast and Twitter; still terrible after all these months. And as Google sunsets the Glass Explorer program, Microsoft debuts HoloLens."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft051.mp3"
+enclosure_length: "34098683"
+duration: "01:08:53"
+---
+- [Podcast Awards](http://podcastawards.com/)
+- [@rothgar nominate Flipping Tables for best gaming podcast](https://twitter.com/rothgar/status/559127717627854848)
+- [Speedrunner Sets New World Record for Fastest Time in Super Mario World](http://www.nintendolife.com/news/2015/01/speedrunner_sets_new_world_record_for_fastest_time_in_super_mario_world)
+- [BlackBerry CEO Wants Legislators To Make Developing BlackBerry Apps Mandatory](http://techcrunch.com/2015/01/21/blackberry-wut/)
+- [Exclusive: politicians are supporting Comcast's TWC merger with letters ghostwritten by Comcast](http://www.theverge.com/2015/1/26/7878239/comcast-twc-fcc-merger-letters-politicians-ghostwritten)
+- [Tweetbot for Mac falls victim to token limit, gets pulled from App Store](http://9to5mac.com/2015/01/25/tweetbot-mac-twitters-war-on-developers/)
+- [PaperLike: 13.3″ E Ink Monitor](http://blog.the-ebook-reader.com/2015/01/15/paperlike-13-3-e-ink-monitor-by-dasung-tech-videos/)
+- [New amazing metal is so hydrophobic it makes water bounce like magic](http://sploid.gizmodo.com/new-amazing-metal-is-so-hydrophobic-it-makes-water-boun-1680799039)
+- [Google Is Said To Be Preparing Its Own Mobile Wireless Service](http://www.npr.org/blogs/thetwo-way/2015/01/21/378963278/google-is-said-to-be-preparing-its-own-mobile-wireless-service)
+- [Today Is The Last Day To Buy Google Glass](http://techcrunch.com/2015/01/19/today-is-the-last-day-to-buy-google-glass/)
+- [Ok Glass, Write a Review](http://lyonsinbeta.com/2014/06/ok-glass-write-a-review/)
+- [Opportunity, Google Glass, and Cadavers](http://lyonsinbeta.com/2014/09/opportunities-google-glass-and-cadavers/)
+- [Hands-on: Microsoft’s HoloLens is flat-out magical](http://arstechnica.com/gadgets/2015/01/hands-on-with-hololens-making-the-virtual-real/)

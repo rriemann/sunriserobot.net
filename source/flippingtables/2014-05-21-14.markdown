@@ -1,0 +1,15 @@
+---
+number: "14"
+title: "I Call My Doctor \"Bro\""
+pubDate: "2014-05-21"
+description: "Presentation sins and audiophile followup leads to a discussion about screen resolution and pixel density. Also, what will be the next meaningless spec hawked in endless marketing campaigns of the future?"
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft014.mp3"
+enclosure_length: "62142738"
+duration: "01:02:47"
+---
+- [Slidedocs is bad and it should feel bad](http://www.duarte.com/slidedocs/)
+- [Moto E vs. Galaxy S5 screen comparison](https://www.youtube.com/watch?v=3P9vDAY0U0A)
+- [Bounden delayed due to gyroscope issues on Android](http://gameovenstudios.com/bounden-on-android-delayed/)
+- [Signs from the near future](http://signsfromthenearfuture.tumblr.com/)
+- [Why Tech’s Best Minds Are Very Worried About the Internet of Things](http://www.wired.com/2014/05/iot-report)
+- [Straight White Male: The Lowest Difficulty Setting There Is](http://kotaku.com/5910857/straight-white-male-the-lowest-difficulty-setting-there-is)

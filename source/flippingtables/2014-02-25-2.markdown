@@ -1,0 +1,21 @@
+---
+number: "2"
+title: "The Samsung Band-Aid"
+pubDate: "2014-02-25"
+description: "Tech company fails abound from the Comcast merger, the iOS/OSX SSL vulnerability, and the all new Samsung rip-off-of-everything-apple-is-doing. Followup on Ender's Game and Flappy Bird."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft002.mp3"
+enclosure_length: "45996242"
+duration: "01:02:27"
+---
+
+
+- [Venn Diagram of Federal Government and Comcast](http://www.muninetworks.org/content/dc-revolving-door-comcast-and-campaign-finance-reform)
+- [Super Mario Brothers Theme on ancient chinese intrument](http://www.theverge.com/2014/2/22/5437334/hear-the-super-mario-bros-theme-played-on-an-ancient-chinese-instrument)
+- iOS/OSX SSL vulnerability
+  - [Vulnerability check](https://gotofail.com/)
+    - [Appcode tweet](https://twitter.com/appcode/status/437896886649757696)
+- [Chrome mic bug](http://www.theverge.com/2014/1/21/5332316/chrome-exploit-lets-websites-keep-listening-after-you-close-the-tab)
+- [Samsung Galaxy S5 Band Aid](https://plus.google.com/+MarquesBrownlee/posts/4MMKEZdxqH5)
+- [eBay is NOT allowing the sale of high priced iPhones with Flappy Bird installed](http://community.ebay.com/t5/Technical-Issues/eBay-not-allowing-iPhones-with-Flappy-Bird-included-as-an-app/qaq-p/19522849)
+- [Nickelodeon Guts' Aggro Crag](/content/images/2014/Feb/il_fullxfull_19210201.jpg)
+- Music by Anamanaguchi (until we write our own!)

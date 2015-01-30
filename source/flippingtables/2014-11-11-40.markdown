@@ -1,0 +1,14 @@
+---
+number: "40"
+title: "Superlatives Are the Best!"
+pubDate: "2014-11-11"
+description: "Unlike Comcast internet speeds, the firehose of their BS never slows down. Luckily they have a bought and paid for politician to make ridiculous statements about net neutrality. The Verge thinks the iPhone had a perfect security record, and Microsoft Research has some killer touchscreen tech."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft040.mp3"
+enclosure_length: "37374758"
+duration: "00:49:02"
+---
+- [Linked my money to CurrentC (image)](https://twitter.com/stoffington/status/530369932299890691/photo/1)
+- [Comcast to double Internet speeds for most Colorado customers](http://www.bizjournals.com/denver/blog/boosters_bits/2014/11/comcast-to-double-internet-speeds-for-most.html)
+- [Dear Senator Ted Cruz](http://theoatmeal.com/blog/net_neutrality)
+- [The iPhone just lost its perfect security record — now what?](http://www.theverge.com/2014/11/6/7167431/the-iphone-just-lost-its-perfect-security-record-now-what)
+- [Applied Sciences Group: High Performance Touch](https://www.youtube.com/watch?v=vOvQCPLkPt4)

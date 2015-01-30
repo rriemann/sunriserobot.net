@@ -1,0 +1,14 @@
+---
+number: "25"
+title: "It's Not Outrage Porn"
+pubDate: "2014-08-05"
+description: "Tables are flipped about Comcast, websites that make unreasonable demands before letting you access their content, and the strange, evolving world of etiquette across communication channels. Featuring a fabulous cover of our theme song by Reptile Fiction."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft025.mp3"
+enclosure_length: "63592809"
+duration: "01:04:05"
+---
+- [Reptile Fiction’s cover of the Flipping Tables theme](https://soundcloud.com/reptile-fiction/flipping-tables-theme-dr-wily-remix)
+- [Reptile Fiction on BandCamp](http://reptilefiction.bandcamp.com/)
+- [Comcast Confessions: why the cable guy is always late](http://www.theverge.com/2014/8/4/5960251/comcast-confessions-why-the-cable-guy-is-always-late)
+- [Tab Closed; Didn’t Read](http://tabcloseddidntread.com/)
+- [@lyonsinbeta’s tweet on TC;DR eLearningIndustry](https://twitter.com/lyonsinbeta/status/495800836342435840)

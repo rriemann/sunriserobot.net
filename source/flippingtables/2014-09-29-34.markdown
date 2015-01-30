@@ -1,0 +1,17 @@
+---
+number: "34"
+title: "Get In My Magic School Bus"
+pubDate: "2014-09-29"
+description: "Shellshock is another \"the internet is doomed\" bug, the Yahoo Directory apparently still exists but not for much longer, Ello is pretty ugly for a \"designer built\" product, and iPhones bend when enough pressure is applied. With all that said, have you ever dollar sign hash placid fourteen mapped your way to a national park?"
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft034.mp3"
+enclosure_length: "41714744"
+duration: "00:55:04"
+---
+- [The Shellshock Bug in about 4 Minutes](http://youtu.be/aKShnpOXqn0)
+- [The Yahoo Directory — Once The Internet’s Most Important Search Engine — Is To Close](http://searchengineland.com/yahoo-directory-close-204370)
+- [Ello](http://ello.co)
+- [The How To Geek’s thoughts on Ello](https://twitter.com/howtogeek/status/515618654160158720)
+- [Ello creepy black circle](http://i.imgur.com/C8m03oQ.png)
+- [Ello, Goodybye](https://aralbalkan.com/notes/ello-goodbye/)
+- [Century Link unveils gigabit internet in Denver](http://www.denverpost.com/business/ci_26275048/centurylink-turn-denver-into-gig-city-1-gigabit)
+- [Video Demonstrates Reported Banana Bending Issues](http://www.theverge.com/2014/9/24/6838821/video-demonstrates-reported-banana-bending-issues)

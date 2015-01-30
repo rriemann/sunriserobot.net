@@ -1,0 +1,20 @@
+---
+number: "13"
+title: "Just Gunshots for 15 to 30 Seconds"
+pubDate: "2014-05-13"
+description: "Rat-a-tat-a-tat pchoom pchoooooom pew pew pew ptwoh boom rattle rattle pecha kucha ch chk pow!"
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft013.mp3"
+enclosure_length: "62657688"
+duration: "01:03:20"
+---
+- [We Like Dota - now featuring a theme song by Michael](http://welikedota.com/)
+- [Natural user interfaces are not natural](http://jnd.org/dn.mss/natural_user_interfaces_are_not_natural.html)
+- [What’s The Opposite of Schadenfreude?](http://www.tabletmag.com/scroll/172293/the-opposite-of-schadenfreude)
+- [Look Up poem](https://www.youtube.com/watch?v=Z7dLU6fk9QY)
+- [All This Technology Is Making Us Antisocial](http://i.imgur.com/4zxYyoP.jpg)
+- [SMBC - 0 Chemicals](http://www.smbc-comics.com/?id=3324)
+- [Climate Change “Debate” - Last Week Tonight](http://youtu.be/cjuGCJJUGsg)
+- [Did Dr. Dre just confirm that Apple is buying Beats for $3.2 billion?](http://thenextweb.com/apple/2014/05/09/dr-dre-just-confirm-apple-buying-beats-3-2-billion/)
+- [Marco Arment on why lossless hi-end audio is essentially a placebo](http://www.marco.org/2014/03/13/pono-reading-material)
+- [The CALM Act Hasn't Made All Commercials Quieter](http://www.usnews.com/news/blogs/washington-whispers/2013/01/04/the-calm-act-hasnt-made-all-commercials-quieter)
+- [Pono Player vs The Pyramid](http://i.imgur.com/I5oy2sD.jpg)

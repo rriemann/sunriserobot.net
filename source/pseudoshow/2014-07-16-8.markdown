@@ -1,0 +1,14 @@
+---
+number: "8"
+title: "Meet Del Phoena"
+pubDate: "2014-07-16"
+description: "Michael and guest-host Sam Worobec talk to Zach and Phoebe of the Portland-based indie-pop duo Del Phoena. In the middle of their first tour, and releasing their debut EP, they discuss how Del Phoena came together and their creative process."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps008.mp3"
+enclosure_length: "0"
+duration: "00:00:00"
+---
+- [Follow @DelPhoena on Twitter](https://twitter.com/DelPhoena) and [like them on Facebook](https://www.facebook.com/delphoena)
+- [Listen to Del Phoena on BandCamp](http://delphoena.bandcamp.com/)
+- [Mystery Machine Studio](http://www.mysterymachinestudio.com/)
+- [Nelly - Northeast Northwest](https://soundcloud.com/northeastnorthwest/nellie)
+- Also, [follow @sworobec on Twitter](https://twitter.com/sworobec)!

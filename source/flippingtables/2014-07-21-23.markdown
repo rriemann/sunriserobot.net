@@ -1,0 +1,21 @@
+---
+number: "23"
+title: "No McRib Intended"
+pubDate: "2014-07-21"
+description: "Special guest Matt Duncan joins David and Michael as they discuss the astounding year-round availability of the McRib in Germany, GEMA and curiously blocked internet content, how we're totally not Stan Lee, and so much more, with absolutely no \"copywrite\" intended."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft023.mp3"
+enclosure_length: "65564980"
+duration: "01:06:21"
+---
+- [Follow @echolox on Twitter](http://twitter.com/echolox)
+- [Apple and IBM announce partnership for enterprise](http://www.nytimes.com/2014/07/16/technology/apple-and-ibm-in-broad-software-deal-for-businesses.html?_r=0)
+- [Blocking of YouTube videos by GEMA](http://en.wikipedia.org/wiki/Blocking_of_YouTube_videos_in_Germany)
+- [No live streaming for Germany (Ger)](http://blog.zdf.de/hyperland/2011/07/youtubes-livestreaming-vor-dem-aus/)
+- [No live streaming for Germany (Eng)](https://www.techdirt.com/articles/20120810/03464619987/stupid-antiquated-german-regulations-mean-germans-couldnt-watch-our-google-hangout-with-rob-reid-yesterday.shtml)
+- [The Oatmeal Tried to Watch Game of Thrones](http://theoatmeal.com/comics/game_of_thrones)
+- [Betteridge’s Law of Headlines](http://en.wikipedia.org/wiki/Betteridge's_law_of_headlines)
+- [Google stops enforcing real names on G+](http://theverge.com/2014/7/15/5902921/google-will-stop-forcing-you-to-use-your-real-name)
+- [@SavedYouAClick Twitter Account](https://twitter.com/savedyouaclick)
+- [Typing Upwards in a Horrifying Bed](https://i.imgur.com/uH2sw.jpg)
+- [Double Irish Sandwich](http://en.wikipedia.org/wiki/Double_Irish_arrangement)
+- [@TheWetHorse Twitter Account](https://twitter.com/TheWetHorse)

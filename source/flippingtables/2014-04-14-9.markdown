@@ -1,0 +1,22 @@
+---
+number: "9"
+title: "Once You Get a Horse Involved..."
+pubDate: "2014-04-14"
+description: "Colbert's television ascendance and Heartbleed are discussed, before those topics give way to talk of humanity's future in the form of robots and automation. Also, what will sheet music look like in a hundred years?"
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft009.mp3"
+enclosure_length: "56466899"
+duration: "01:15:50"
+---
+- [Colbert to take over for David Letterman](http://variety.com/2014/tv/news/stephen-colbert-to-replace-david-letterman-1201155423/)
+- [xkcd: How the Heartbleed Bug Works](http://xkcd.com/1354/)
+- [LastPass guide to Heart Bleed](http://blog.lastpass.com/2014/04/lastpass-now-checks-if-your-sites-are.html)
+- [Mashable guide to heartbleed affected sites](http://mashable.com/2014/04/09/heartbleed-bug-websites-affected/)
+- [AUTOMATE ALL THE THINGS](http://www.getchef.com/blog/wp-content/uploads/2012/02/automate-all-the-things.png)
+- [Wall-E future humans](http://www.readpt.com/wp-content/uploads/2014/01/Wall-E-2.jpg)
+- [Hierarchy of needs](http://www.timemachinego.com/linkmachinego/wordpress/wp-content/uploads/2013/09/hierarchy-of-needs-wifi.jpg)
+- [Shape Notes](http://en.wikipedia.org/wiki/Shape_note)
+- [Logic Piano Roll](/content/images/2014/Apr/LogicPianoRoll.png)
+- [Real recorder, fake guitar in Detective soundtrack](http://michaeledwards.bandcamp.com/track/gentlemen-want-to-take-a-look-out-here)
+- [Reggie Watts Ted Talk](http://www.ted.com/talks/reggie_watts_disorients_you_in_the_most_entertaining_way)
+- The all new [Pseudobook Podcast](http://pseudobookpodcast.com) hosted by Mike and his brother Justin.
+- Music by Anamanaguchi (until we write our own! Next episode!!)

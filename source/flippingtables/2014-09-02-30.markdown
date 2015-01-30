@@ -1,0 +1,15 @@
+---
+number: "30"
+title: "Sherlock With Hackerz"
+pubDate: "2014-09-02"
+description: "David and Mike flip tables about The Verge and the hissy fit they threw about @SavedYouAClick's summary of one of their articles, followed by a discussion of bad attempts to modernize old stories on tv. Also, Nintendo refocuses on core gamers, ceding the casual crowd it once owned on the Wii to today's smartphones and tablets."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft030.mp3"
+enclosure_length: "48468432"
+duration: "01:04:27"
+---
+- [Portlandia Dropped Smartphone Sketch](https://www.youtube.com/watch?v=NPL7Snp38rA)
+- [Are you proud of yourself, @SavedYouAClick?](http://www.theverge.com/2014/8/27/6075535/are-you-proud-of-yourself-savedyouaclick-question-mark-nope)
+- [All Together, a sitcom about not using smartphones](http://mobile.theverge.com/2014/8/27/6074335/all-together-now-sitcom-pilot-about-not-using-mobile-devices)
+- [Nintendo to refocus on hardcore gamers](http://www.computerandvideogames.com/475384/miyamoto-explains-nintendos-renewed-passion-for-the-core/)
+- [Final Fantasy Type-0 HD is a mature, 'true remaster' of the original game](http://www.polygon.com/2014/9/1/6087833/final-fantasy-type-0-hd-mature)
+- [Sherlock artwork thanks to ALICEXZ on DeviantArt](http://alicexz.deviantart.com/)

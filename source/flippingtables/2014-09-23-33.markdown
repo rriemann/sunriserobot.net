@@ -1,0 +1,14 @@
+---
+number: "33"
+title: "I Can’t Even Pumpkin Spice Latte"
+pubDate: "2014-09-23"
+description: "A great big ethereal conversation about Getting Things Done, Bullet Journal, notetaking, and the burdensome systems we all use to be \"productive.\" Do you really need your Twitter archive stored away for all time? John Cleese says  creative problem solving and doing work are two different modes and who are we to argue?"
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft033.mp3"
+enclosure_length: "46127464"
+duration: "01:01:12"
+---
+- [Bullet Journal](http://bulletjournal.com/)
+- [Mike’s Bullet Journal](http://imgur.com/a/REujy)
+- [John Gruber, writer of Daring Fireball](http://daringfireball.net)
+- [Why Twitter’s Newest Tweetstorm™ Trend Must Be Stopped](http://www.buzzfeed.com/charliewarzel/why-twitters-newest-tweetstormtm-trend-must-be-stopped#1t905un)
+- [John Cleese - How to Inspire Creativity In Yourself](https://www.youtube.com/watch?v=nu2oOrBkVoQ)

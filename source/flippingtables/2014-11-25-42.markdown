@@ -1,0 +1,18 @@
+---
+number: "42"
+title: "Hit Me With Your Gunblade"
+pubDate: "2014-11-25"
+description: "How has Nintendo avoided shipping broken games? Maybe skipping DLC holds you to a higher standard. Uber's awfulness hopefully paves the way for competition. And Lyons geeks out of Final Fantasy VI."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft042.mp3"
+enclosure_length: "31543296"
+duration: "01:33:33"
+---
+- [David comments about Fallout](http://flippingtablespodcast.com/041/#comment-1701360516)
+- [Assassin’s Creed Unity Returns Faces To NPCs Who Have Lost Them](http://www.gameinformer.com/b/news/archive/2014/11/19/assassin-s-creed-unity-returns-faces-to-npcs-who-have-lost-them.aspx)
+- [Smartphone encryption could lead to death of a child, government claims](http://www.androidcentral.com/smartphone-encryption-could-lead-death-child-government-fights-back)
+- [Nintendo Is Not Planning On Releasing More Smash Bros. DLC](http://www.gamnesia.com/news/nintendo-is-not-planning-on-releasing-more-smash-bros.-dlc)
+- [Super Smash Bros. Technical Play Special - Did You Know Gaming? Feat. Yungtown](https://www.youtube.com/watch?v=84XP7OMZhAg)
+- [The moment I learned just how far Uber will go to silence journalists and attack women](http://pando.com/2014/11/17/the-moment-i-learned-just-how-far-uber-will-go-to-silence-journalists-and-attack-women/)
+- [The guy who accused Sarah Lacy of “playing victim” over Uber forgot to disclose he’s “bros” with the company’s two most senior execs](http://pando.com/2014/11/23/the-guy-who-accused-sarah-lacy-of-playing-victim-over-uber-forgot-to-disclose-hes-bros-with-the-companys-two-most-senior-execs/)
+- [Final Fantasy VI - Dancing Mad [Remastered]](https://www.youtube.com/watch?v=W06JEVZPGHk)
+- [I'm sorry we didn't have polygons left for you, Cid](http://i.imgur.com/u7peUtC.jpg)

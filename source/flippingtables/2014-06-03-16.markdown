@@ -1,0 +1,20 @@
+---
+number: "16"
+title: "Treating People Like Garbage For No Reason"
+pubDate: "2014-06-03"
+description: "A measured discussion of WWDC14 gets flipped by our disgust at Twitter's new notifications spam and streaming services not providing special features. And what's up with late 90s ultra politcally correct cartoons?"
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft016.mp3"
+enclosure_length: "78150615"
+duration: "01:19:28"
+---
+- [The 22 most important things Apple announced at WWDC](http://www.theverge.com/2014/6/2/5765048/apple-wwdc-2014-os-x-yosemite-ios-8-and-all-the-news-you-need-to-know)
+- [Swift](https://developer.apple.com/swift/)
+- [“Every JavaScript Developer Right Now” (after the announcement of Swift)](http://i.imgur.com/OpD0UYz.png)
+- [Stupid Twitter Notification](http://i.imgur.com/YNrIQ50.png)
+- [Why the (Twitter) Quick Bar (“dickbar”) is so offensive](http://www.marco.org/2011/03/20/why-the-quick-bar-dickbar-is-still-so-offensive)
+- [Michael shames RTD via twitter](https://twitter.com/medwardsmusic/status/473569030058807296)
+- [Why I disable notifications - Pseudomichael](http://pseudomichael.com/why-i-disable-notifications/)
+- [Digital Copy of Frozen _with bonus features_](http://amzn.com/B00HV2KU5A)
+- [The Onion: Disney CEO Figures They’ve Built Up Enough Goodwill To Do A Real Sexist One](http://www.theonion.com/articles/disney-ceo-figures-theyve-built-up-enough-goodwill,35874/)
+- FOLLOW UP: Did any cliché politically correct 90s character change your mind about a show? (Example: did you start watching ghostbusters _because_ they added a female ghostbuster?)
+

@@ -1,0 +1,19 @@
+---
+number: "44"
+title: "Balloons That Rain Down Wifi on Africa"
+pubDate: "2014-12-10"
+description: "Square Enix continues trolling the world by releasing the original FFVII on PS4 like it was a big deal, and the 3D version of FFIV on Steam as if that was the version we wanted. Suikoden proves some games can cast off RPG tropes. Wire is yet another revolutionary chat app. And Google fixes the CAPTCHA."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft044.mp3"
+enclosure_length: "26843850"
+duration: "00:59:05"
+---
+- [The Little Synthboy EP](https://reptilefiction.bandcamp.com/album/the-little-synthboy)
+- [Final Fantasy IV on Steam](http://store.steampowered.com/app/312750/)
+- [The Internet Reacts to Final Fantasy VII on PS4](http://kotaku.com/the-internet-reacts-to-final-fantasy-vii-on-ps4-1668134367)
+- [Final Fantasy VII “returns”](https://www.youtube.com/watch?v=IfsE1r7zS4c)
+- [Last Year: A 5 vs 1 Multiplayer Survival Horror Game That's Basically Friday the 13th](http://www.dorkly.com/post/70978/last-year-a-5-vs-1-multiplayer-survival-horror-game-thats-basically-friday-the-13th)
+- [Last Year - 5 vs 1 Multiplayer Survival Horror on KickStarter](https://www.kickstarter.com/projects/lastyear/last-year-5-vs-1-multiplayer-survival-horror)
+- [5 Suikoden Series Trivia - VGFacts Five Trivia Feat. brutalmoose](https://www.youtube.com/watch?v=IY00VczrpZU)
+- [Ex-Skypers unveil Wire app, offering voice, messaging and more](https://gigaom.com/2014/12/03/ex-skypers-unveil-wire-app-offering-voice-messaging-and-more/)
+- [Are you a robot? Introducing “No CAPTCHA reCAPTCHA”](http://googleonlinesecurity.blogspot.com/2014/12/are-you-robot-introducing-no-captcha.html)
+- [The HowToGeek on Amazon brand diapers](https://twitter.com/howtogeek/status/541352629310619649)

@@ -1,0 +1,17 @@
+---
+number: "12"
+title: "The Uncanny Valley of Targeted Ads"
+pubDate: "2014-05-06"
+description: "Do we take our lack of privacy for granted on the internet? Can companies like Google and Amazon do even more with our data than serve poorly targeted ads? If that's too heavy for you, we've also got Chocolate Rain and funny tumblrs!"
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft012.mp3"
+enclosure_length: "59215794"
+duration: "00:59:44"
+---
+- [Chocolate Rain](https://www.youtube.com/watch?v=EwTZ2xpQwpA)
+- [Burying the URL](http://www.allenpike.com/2014/burying-the-url/)
+- [Honest Android Games](http://honestandroidgames.com/)
+- [How One Woman Hid Her Pregnancy From Big Data](http://mashable.com/2014/04/26/big-data-pregnancy/)
+- [The Oatmeal: I Tried to Watch Game of Thrones](http://theoatmeal.com/comics/game_of_thrones)
+- [Tab Closed; Didn’t Read](http://tabcloseddidntread.com/)
+- [Pictures of People Scanning QR Codes](http://picturesofpeoplescanningqrcodes.tumblr.com/)
+- [The Same Picture of Dave Coulier Every Day](http://samepicofdavecoulier.tumblr.com/)
