@@ -11,6 +11,7 @@
         photo: "davidlyons.jpg" }
   description: "A weekly discussion of the latest developments in technology, gaming, and culture."
   album_art: "flippingtables/flippingtables_album.jpg"
+  social_art: "flippingtables/flippingtables_social.jpg"
   email: "hello@sunriserobot.net"
   category: "Technology"
   itunes: "https://itunes.apple.com/us/podcast/flipping-tables/id820841907"
@@ -27,6 +28,7 @@
         photo: "justinedwards.jpg" }
   description: "A peek into the lives of filmmakers, musicians, writers, and other artists, exploring their influences and origin stories."
   album_art: "pseudoshow/pseudoshow_album.jpg"
+  social_art: "pseudoshow/pseudoshow_social.jpg"
   email: "hello@sunriserobot.net"
   category: "TV & Film"
   itunes: "https://itunes.apple.com/us/podcast/pseudobook-podcast/id858823896"
@@ -41,6 +43,7 @@
         photo: "pollykyle.jpg" }
   description: "The ongoing adventures of Shelby and Polly, young women riffing on television, sports, books, and life in Colorado."
   album_art: "likelystory/likelystory_album.jpg"
+  social_art: "likelystory/likelystory_social.jpg"
   email: "hello@sunriserobot.net"
   category: "TV & Film"
 - prefix: "bitsandpieces"
@@ -56,6 +59,7 @@
         photo: "michaeledwards.jpg" }
   description: "An examination of the world of music as listeners and creators, including trends in the industry and the elements of success."
   album_art: "bitsandpieces/bitsandpieces_album.png"
+  social_art: "bitsandpieces/bitsandpieces_social.png"
   email: "hello@sunriserobot.net"
   category: "Music"
 - prefix: "somepulp"
@@ -67,5 +71,6 @@
         photo: "bruceedwards.jpg" }
   description: "A retrospective meditation on media, art, and technology from the 1950s onward."
   album_art: "somepulp/somepulp_album.jpg"
+  social_art: "somepulp/somepulp_social.jpg"
   email: "hello@sunriserobot.net"
   category: "TV & Film"

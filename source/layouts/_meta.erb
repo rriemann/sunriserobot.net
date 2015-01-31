@@ -26,7 +26,7 @@
     Sunrise Robot - shows for designers, technologists, musicians and all-around culture enthusiasts.
     <% end %>">
 <meta itemprop="image" content="<% if @show %>
-<%= "http://sunriserobot.net/images/#{@show["prefix"]}/#{@show["prefix"]}_social.jpg" %><% end %>">
+<%= "http://sunriserobot.net/images/#{@show["social_art"]}" %><% else %>http://sunriserobot.net/images/sunriserobot_social.png<% end %>">
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image"> <!-- this is the card type, do not edit -->
@@ -39,9 +39,9 @@
     Sunrise Robot"> <!-- e.g. "Flipping Tables | Sunrise Robot" for main show page or "Flipping Tables | #52: Shit that Smells" for episode page -->
 <meta name="twitter:creator" content="@sunriserobot"> <!-- Since we aren't having show-specific twitter accounts, just keep this as sunrise robot -->
 <meta name="twitter:url" content="<% if current_article %>
-<%= "http://sunriserobot.net/#{current_article.url}" %>
+<%= "http://sunriserobot.net/#{current_article.url}/" %>
 <% elsif @show %>
-<%= "http://sunriserobot.net/#{@show["prefix"]}" %>
+<%= "http://sunriserobot.net/#{@show["prefix"]}/" %>
 <% else %>
 http://sunriserobot.net<% end %>">
 <meta name="twitter:description" content="<% if current_article %>
@@ -59,7 +59,7 @@ http://sunriserobot.net<% end %>">
     Sunrise Robot - shows for designers, technologists, musicians and all-around culture enthusiasts.
     <% end %>"> <!-- Depending on page, input either the Sunrise Robot description, show description, or episode description. -->
 <meta name="twitter:image" content="<% if @show %>
-<%= "http://sunriserobot.net/images/#{@show["prefix"]}/#{@show["prefix"]}_social.jpg" %><% end %>">
+<%= "http://sunriserobot.net/images/#{@show["social_art"]}" %><% else %>http://sunriserobot.net/images/sunriserobot_social.png<% end %>">
 
 <!-- Open Graph -->
 <meta property="og:title" content="<% if current_article %>
@@ -84,15 +84,15 @@ http://sunriserobot.net<% end %>">
     <% end %>" />
 <meta property="og:type" content="website" />
 <meta property="og:image" content="<% if @show %>
-<%= "http://sunriserobot.net/images/#{@show["prefix"]}/#{@show["prefix"]}_social.jpg" %><% end %>" />
+<%= "http://sunriserobot.net/images/#{@show["social_art"]}" %><% else %>http://sunriserobot.net/images/sunriserobot_social.png<% end %>" />
 <% if current_article %>
 <meta property="og:audio" content="<%= current_article.data.enclosure_link %>" /> <!-- For episode pages only, open graph item for the mp3 file? Include next tag as well if using this. -->
 <meta property="og:audio:type" content="audio/mpeg" />
 <% end %>
 <meta property="og:url" content="<% if current_article %>
-<%= "http://sunriserobot.net/#{current_article.url}" %>
+<%= "http://sunriserobot.net/#{current_article.url}/" %>
 <% elsif @show %>
-<%= "http://sunriserobot.net/#{@show["prefix"]}" %>
+<%= "http://sunriserobot.net/#{@show["prefix"]}/" %>
 <% else %>
 http://sunriserobot.net<% end %>" />
 <meta property="og:locale" content="en_US" />
@@ -106,4 +106,4 @@ http://sunriserobot.net<% end %>" />
 
 <!-- Facebook -->
 <link rel="image_src" href="<% if @show %>
-<%= "http://sunriserobot.net/images/#{@show["prefix"]}/#{@show["prefix"]}_social.jpg" %><% end %>" /> <!-- Need to check on recommended sizes and formats to see if we can reuse the same image or need to store a couple of them -->
+<%= "http://sunriserobot.net/images/#{@show["social_art"]}" %><% else %>http://sunriserobot.net/images/sunriserobot_social.png<% end %>" /> <!-- Need to check on recommended sizes and formats to see if we can reuse the same image or need to store a couple of them -->
