@@ -58,13 +58,6 @@ http://sunriserobot.net<% end %>">
     <% else %>
     Sunrise Robot - shows for designers, technologists, musicians and all-around culture enthusiasts.
     <% end %>">
-<meta itemprop="description" content="<% if current_article %>
-    <%= current_article.data.description %>
-    <% elsif @show %>
-    <%= @show["description"] %>
-    <% else %>
-    Sunrise Robot - shows for designers, technologists, musicians and all-around culture enthusiasts.
-    <% end %>" />
 <meta property="og:type" content="website" />
 <meta property="og:image" content="<% if @show %>
 <%= "http://sunriserobot.net/images/#{@show["social_art"]}" %><% else %>http://sunriserobot.net/images/sunriserobot_social.png<% end %>" />
