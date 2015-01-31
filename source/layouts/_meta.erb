@@ -77,7 +77,7 @@
 <meta property="og:audio:type" content="audio/mpeg" />
 <% end %>
 <meta property="og:url" content="<% if current_article %>
-<%= current_article.url %>
+<%= "http://sunriserobot.net/#{current_article.url}" %>
 <% elsif @show %>
 <%= "http://sunriserobot.net/#{@show["prefix"]}" %>
 <% else %>
