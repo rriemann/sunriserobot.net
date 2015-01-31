@@ -195,8 +195,8 @@ ul.host-links li {
 }
 
 .episode-desc {
-  font-size: 20px;
-  line-height: 28px;
+  font-size: 18px;
+  line-height: 26px;
 }
 
 .btn {
@@ -389,6 +389,11 @@ footer h2 a:hover, footer h2 a:focus {
 
 @media (min-width: 768px) {
 
+  .episode-desc {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
   .host-links {
     margin: 2px 0 0 -16px;
   }
@@ -415,6 +420,11 @@ footer h2 a:hover, footer h2 a:focus {
 
 @media (min-width: 992px) {
 
+  .episode-desc {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
   .index-show-desc {
     font-size: 18px;
     line-height: 26px;
@@ -437,6 +447,11 @@ footer h2 a:hover, footer h2 a:focus {
 /* Extra Large Desktop */
 
 @media (min-width: 1200px) {
+
+  .episode-desc {
+    font-size: 20px;
+    line-height: 30px;
+  }
 
   .index-show-desc {
     font-size: 20px;

@@ -30,6 +30,19 @@
   email: "hello@sunriserobot.net"
   category: "TV & Film"
   itunes: "https://itunes.apple.com/us/podcast/pseudobook-podcast/id858823896"
+- prefix: "likelystory"
+  title: "Likely Story"
+  hosts:
+    - { name: "Shelby Edwards",
+        twitter: "shelbyelizabeth",
+        photo: "shelbyedwards.jpg" }
+    - { name: "Polly Kyle",
+        twitter: "pollyannek",
+        photo: "pollykyle.jpg" }
+  description: "The ongoing adventures of Shelby and Polly, young women riffing on television, sports, books, and life in Colorado."
+  album_art: "likelystory/likelystory_album.jpg"
+  email: "hello@sunriserobot.net"
+  category: "TV & Film"
 - prefix: "bitsandpieces"
   title: "Bits & Pieces"
   hosts:
@@ -54,18 +67,5 @@
         photo: "bruceedwards.jpg" }
   description: "A retrospective meditation on media, art, and technology from the 1950s onward."
   album_art: "somepulp/somepulp_album.jpg"
-  email: "hello@sunriserobot.net"
-  category: "TV & Film"
-- prefix: "likelystory"
-  title: "Likely Story"
-  hosts:
-    - { name: "Shelby Edwards",
-        twitter: "shelbyelizabeth",
-        photo: "shelbyedwards.jpg" }
-    - { name: "Polly Kyle",
-        twitter: "pollyannek",
-        photo: "pollykyle.jpg" }
-  description: "The ongoing adventures of Shelby and Polly, young women riffing on television, sports, books, and life in Colorado."
-  album_art: "likelystory/likelystory_album.jpg"
   email: "hello@sunriserobot.net"
   category: "TV & Film"
