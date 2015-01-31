@@ -19,8 +19,8 @@
     <% elsif @show %>
     <%= "#{@show["title"]} | " %>
     <% end %>
-    Sunrise Robot"> <!-- e.g. "Flipping Tables | Sunrise Robot" for main show page or "Flipping Tables | #52: Shit that Smells" for episode page -->
-<meta name="twitter:creator" content="@sunriserobot"> <!-- Since we aren't having show-specific twitter accounts, just keep this as sunrise robot -->
+    Sunrise Robot">
+<meta name="twitter:creator" content="@sunriserobot">
 <meta name="twitter:url" content="<% if current_article %>
 <%= "http://sunriserobot.net/#{current_article.url}/" %>
 <% elsif @show %>
@@ -40,7 +40,7 @@ http://sunriserobot.net<% end %>">
     <%= @show["description"] %>
     <% else %>
     Sunrise Robot - shows for technologists, gamers, artists and cultural enthusiasts.
-    <% end %>"> <!-- Depending on page, input either the Sunrise Robot description, show description, or episode description. -->
+    <% end %>">
 <meta name="twitter:image" content="<% if @show %>
 <%= "http://sunriserobot.net/images/#{@show["social_art"]}" %><% else %>http://sunriserobot.net/images/sunriserobot_social.png<% end %>">
 
@@ -62,7 +62,7 @@ http://sunriserobot.net<% end %>">
 <meta property="og:image" content="<% if @show %>
 <%= "http://sunriserobot.net/images/#{@show["social_art"]}" %><% else %>http://sunriserobot.net/images/sunriserobot_social.png<% end %>" />
 <% if current_article %>
-<meta property="og:audio" content="<%= current_article.data.enclosure_link %>" /> <!-- For episode pages only, open graph item for the mp3 file? Include next tag as well if using this. -->
+<meta property="og:audio" content="<%= current_article.data.enclosure_link %>" /> <!-- This and next tag are connected. -->
 <meta property="og:audio:type" content="audio/mpeg" />
 <% end %>
 <meta property="og:url" content="<% if current_article %>
@@ -81,8 +81,8 @@ http://sunriserobot.net<% end %>" />
 <link rel="apple-touch-icon" href="/images/touch-icon-iphone.png" />
 <link rel="apple-touch-icon" href="/images/touch-icon-ipad.png" />
 <link rel="apple-touch-icon" href="/images/touch-icon-iphone-retina.png" />
-<link rel="apple-touch-icon" href="/images/touch-icon-ipad-retina.png" /> <!-- These are the icons used if user creates a home-screen shortcut for our site on an iOS device -->
+<link rel="apple-touch-icon" href="/images/touch-icon-ipad-retina.png" /> <!-- Android also uses these for home screen icons -->
 
 <!-- Facebook -->
 <link rel="image_src" href="<% if @show %>
-<%= "http://sunriserobot.net/images/#{@show["social_art"]}" %><% else %>http://sunriserobot.net/images/sunriserobot_social.png<% end %>" /> <!-- Need to check on recommended sizes and formats to see if we can reuse the same image or need to store a couple of them -->
+<%= "http://sunriserobot.net/images/#{@show["social_art"]}" %><% else %>http://sunriserobot.net/images/sunriserobot_social.png<% end %>" />
