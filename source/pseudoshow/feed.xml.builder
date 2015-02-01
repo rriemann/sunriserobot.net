@@ -1,10 +1,10 @@
 ---
-blog: "The Pseudo Show"
+blog: "Pseudo Show"
 ---
 show_data       = YAML.load_file("source/data/shows.yml").find { |s| s["prefix"] == blog.options.prefix.sub("/", "") }
 rss_boilerplate = YAML.load_file("source/data/rss-boilerplate.yml")["rss_boilerplate"]
 host_names      = show_data["hosts"].map { |host| host["name"] }.join(" and ")
-album_art_url   = "http://sunriserobot.net/images/#{show_data["album_art"]}"
+album_art_url   = "http://sunriserobot.net/images/#{show_data["large_art"]}"
 
 xml.instruct!
 xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
@@ -28,7 +28,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
       xml.link site_url
     end
     # iTunes specific
-    # xml.tag! "itunes:new-feed-url", ""
+    xml.tag! "itunes:new-feed-url", "http://sunriserobot.net/#{show_data["prefix"]}/feed.xml"
     xml.tag! "itunes:subtitle", show_data["title"]
     xml.tag! "itunes:author", host_names
     xml.tag! "itunes:summary", show_data["description"]
@@ -72,4 +72,3 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
     end
   end
 end
-
