@@ -3,7 +3,7 @@ number: "1"
 title: "Too Many Detectives"
 pubDate: "2014-04-08"
 description: "Justin and Michael revive the long-dormant Pseudobook Podcast with special guests Adam McCabe, Henry Kaiser, and Matthew Clay - the stars of Detective Detective Detective. They discuss production of the film, living cramped in a cabin, and the kind of creative community they'd like to be part of. Not actually sponsored by Cazt."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps001.mp3"
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps1.mp3"
 enclosure_length: "0"
 duration: "00:00:00"
 ---

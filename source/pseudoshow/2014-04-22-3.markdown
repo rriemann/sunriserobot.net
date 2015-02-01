@@ -3,7 +3,7 @@ number: "3"
 title: "Weird Dad Journals"
 pubDate: "2014-04-22"
 description: "Director Kyle Soehngen is welcomed to the podcast to discuss his roots in filmmaking, his creative process, and some of his films and commercials. Weird dads are involved."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps003.mp3"
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps3.mp3"
 enclosure_length: "0"
 duration: "00:00:00"
 ---

@@ -3,7 +3,7 @@ number: "6"
 title: "We All Steal From The Past"
 pubDate: "2014-05-20"
 description: "Denver-based singer-songwriter Jesse Manley joins to discuss his creative work in making folk music new again. From his collaborations with the modern ballet company Wonderbound on A Gothic Folktale to his continued work on his own live show, hear about how he is exploring early American folk, blues, and jazz music in all sorts of new collaborations."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps006.mp3"
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps6.mp3"
 enclosure_length: "0"
 duration: "00:00:00"
 ---

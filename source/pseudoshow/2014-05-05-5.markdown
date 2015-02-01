@@ -3,7 +3,7 @@ number: "5"
 title: "Green Check Marks"
 pubDate: "2014-05-05"
 description: "Justin and Michael welcome their first overseas guest in the form of Matt Duncan. Listen and learn about Matt's musical projects The Astray and Salt The Skies, his seriously impressive cosplay hobby, how he met Michael through Radio Reddit, and, of course, a comprehensive and nuanced appraisal of German and American politics. Ok, maybe not so much that last thing."
-enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps005.mp3"
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps5.mp3"
 enclosure_length: "0"
 duration: "00:00:00"
 ---
