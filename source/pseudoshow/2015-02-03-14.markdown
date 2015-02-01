@@ -1,6 +1,6 @@
 ---
 number: "14"
-title: "Editing Film"
+title: "Editing the Movies"
 pubDate: "2015-02-03"
 description: "Juliette Edwards joins the show to discuss how she got into film editing and her creative influences, before discussing Oscar predictions."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps14.mp3"
