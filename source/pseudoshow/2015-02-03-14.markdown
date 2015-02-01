@@ -1,12 +1,11 @@
 ---
 number: "14"
 title: "Editing Film"
-pubDate: "2015-03-02"
+pubDate: "2015-02-03"
 description: "Juliette Edwards joins the show to discuss how she got into film editing and her creative influences, before discussing Oscar predictions."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps14.mp3"
 enclosure_length: "0"
 duration: "00:00:00"
 ---
 - [Follow Juliette on Twitter](https://twitter.com/jumomachapou)
-- [Come Back To Me](http://pseudojustin.com/portfolio/come-back-to-me-%E2%80%A2-my-afi-thesis-film/)
 - [Detective Detective Detective](http://detectivedetectivedetective.com/)
