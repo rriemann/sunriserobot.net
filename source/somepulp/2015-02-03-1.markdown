@@ -4,8 +4,8 @@ title: "The Signpost Up Ahead - The Twilight Zone"
 pubDate: "2015-02-03"
 description: "In this first issue we look at the phenomenon of a half-hour TV drama program that debuted in 1959 on the CBS television network, Rod Serling’s The Twilight Zone. Special guests Justin & Michael Edwards join the conversation."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/sp1.mp3"
-enclosure_length: "0"
-duration: "00:00:00"
+enclosure_length: "21532817"
+duration: "00:43:28"
 ---
 - [The Signpost Up Ahead - Twilight Zone intro sequence](https://www.youtube.com/watch?v=w2JpBkHzu-Q)
 - [Richard Matheson, Writer of Haunted Science Fiction and Horror, Dies at 87](http://www.nytimes.com/2013/06/26/books/richard-matheson-writer-of-haunted-science-fiction-and-horror-dies-at-87.html)
