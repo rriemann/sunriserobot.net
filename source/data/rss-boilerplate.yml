@@ -1,6 +1,5 @@
 rss_boilerplate: |
   <p><a href="%{LINK}">View show notes on Sunrise Robot.</a></p>
-  <p>Discuss this episode:<br>Twitter | Facebook | Google+</p>
   <p>%{SHOW_TITLE} is hosted by %{SHOW_HOSTS}. Check out other Sunrise Robot shows at <a href="http://sunriserobot.net">sunriserobot.net</a>.</p>
-  <p>%{SHOW_TITLE} will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show, consider becoming a supporter or buy some cool Sunrise Robot stuff!</p>
+  <p>%{SHOW_TITLE} will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show become a supporter!</p>
   <p><a href="%{ITUNES_LINK}">Rate %{SHOW_TITLE} on iTunes!</a></p>
