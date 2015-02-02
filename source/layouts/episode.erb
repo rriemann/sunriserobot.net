@@ -14,7 +14,7 @@
             <p class="episode-date">#<%= current_article.data.number %> - <%= current_article.date.strftime("%B %-d, %Y")  %></p>
             <h1 class="episode-title"><%= current_article.title %></h1>
             <p class="episode-desc"><%= current_article.data.description %></p>
-            <p><audio controls preload src="<%= "#butts" %>"> <br>
+            <p><audio controls preload src="<%= current_article.data.enclosure_link %>"> <br>
             </audio>
             <p><a href="<%= @show["itunes"] %>" class="btn btn-itunes" role="button"><i class="fa fa-music"></i> iTunes</a> <a href="pcast://sunriserobot.net/<%= @show["prefix"] %>/feed.xml" class="btn btn-rss" role="button"><i class="fa fa-rss"></i> RSS</a></p>
           </div>
