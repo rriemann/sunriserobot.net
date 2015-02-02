@@ -4,8 +4,8 @@ title: "Delay and Tremolo Happening in My Life"
 pubDate: "2015-02-03"
 description: "Learn how not to ask a band to play a show and why Steve Albini thinks it's a great time to be a musician."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/bp1.mp3"
-enclosure_length: "0"
-duration: "00:00:00"
+enclosure_length: "15357523"
+duration: "00:38:05"
 ---
 - [Steve Albini’s Keynote Address](https://www.youtube.com/watch?v=Lz_CPzuwSk4) 
 - [Future Islands - Spirit + Interview](https://www.youtube.com/watch?v=RPwB5EY9690) 
