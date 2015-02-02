@@ -1,5 +1,5 @@
 rss_boilerplate: |
   <p><a href="%{LINK}">View show notes on Sunrise Robot.</a></p>
   <p>%{SHOW_TITLE} is hosted by %{SHOW_HOSTS}. Check out other Sunrise Robot shows at <a href="http://sunriserobot.net">sunriserobot.net</a>.</p>
-  <p>%{SHOW_TITLE} will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show become a supporter!</p>
+  <p>%{SHOW_TITLE} will always be distributed freely, but we thrive on the generous donations of our fans. If you enjoy the show <a href="http://sunriserobot.net/support">find out how to become a supporter</a>, and check out the <a href="http://patreon.com/sunriserobot">Sunrise Robot Patreon!</a></p>
   <p><a href="%{ITUNES_LINK}">Rate %{SHOW_TITLE} on iTunes!</a></p>
