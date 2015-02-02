@@ -4,8 +4,8 @@ title: "Editing the Movies"
 pubDate: "2015-02-03"
 description: "Juliette Edwards joins the show to discuss how she got into film editing and her creative influences, before discussing Oscar predictions."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps14.mp3"
-enclosure_length: "0"
-duration: "00:00:00"
+enclosure_length: "26290241"
+duration: "00:52:51"
 ---
 - [Follow Juliette on Twitter](https://twitter.com/jumomachapou)
 - [Detective Detective Detective](http://detectivedetectivedetective.com/)
