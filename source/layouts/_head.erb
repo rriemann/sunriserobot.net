@@ -1,11 +1,19 @@
 <head>
-    <title>
-    <% if current_article %>
-    <%= "#{@show["title"]} ##{current_article.data.number}: #{current_article.title} | " %>
-    <% elsif @show %>
-    <%= "#{@show["title"]} | " %>
-    <% end %>
-    Sunrise Robot</title>
+<title><% if current_article %><%= "#{@show["title"]} ##{current_article.data.number}: #{current_article.title} | " %><% elsif @show %><%= "#{@show["title"]} | " %><% end %>Sunrise Robot</title>
+
+<!-- 
+
+   _____                  _              ____        __          __ 
+  / ___/__  ______  _____(_)_______     / __ \____  / /_  ____  / /_
+  \__ \/ / / / __ \/ ___/ / ___/ _ \   / /_/ / __ \/ __ \/ __ \/ __/
+ ___/ / /_/ / / / / /  / (__  )  __/  / _, _/ /_/ / /_/ / /_/ / /_  
+/____/\__,_/_/ /_/_/  /_/____/\___/  /_/ |_|\____/_.___/\____/\__/  
+                                                                    
+Founded with love and care by Michael Edwards & David Lyons.
+Content, code, and design Copyright © 2015 Sunrise Robot, LLC.
+
+-->
+
     <%= partial "layouts/meta" %>
     <link href="/stylesheets/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
