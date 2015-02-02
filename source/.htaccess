@@ -11,8 +11,8 @@ RewriteRule (.*) http://sunriserobot.net/pseudoshow/$1 [R=301,L]
 # Drop leading zero from episode URL
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^sunriserobot.net [nc]
-RewriteRule ^flippingtables/0+([1-9]+0*)/?$ /flippingtables/$1 [r=301,nc]
-RewriteRule ^pseudoshow/0+([1-9]+0*)/?$ /pseudoshow/$1 [r=301,nc]
+RewriteRule ^flippingtables/0+([1-9]+0*)/?$ /$1 [r=301,nc]
+RewriteRule ^pseudoshow/0+([1-9]+0*)/?$ /$1 [r=301,nc]
 
 ErrorDocument 403 /error/
 ErrorDocument 404 /error/
