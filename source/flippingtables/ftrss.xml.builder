@@ -28,7 +28,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
       xml.link "http://flippingtablespodcast.com"
     end
     # iTunes specific
-    # xml.tag! "itunes:new-feed-url", ""
+    xml.tag! "itunes:new-feed-url", "http://sunriserobot.net/#{show_data["prefix"]}/feed.xml"
     xml.tag! "itunes:subtitle", show_data["title"]
     xml.tag! "itunes:author", host_names
     xml.tag! "itunes:summary", show_data["description"]
