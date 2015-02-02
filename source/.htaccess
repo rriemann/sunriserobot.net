@@ -1,12 +1,12 @@
 # Redirects flippingtablespodcast.com based episode URLs to sunriserobot.net/flippingtables
-#RewriteEngine on
-#RewriteCond %{HTTP_HOST} ^(?:www\.)?(flippingtables)podcast\. [NC]
-#RewriteRule (.*) http://sunriserobot.net/%1/$1 [R=301,L]
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(?:www\.)?(flippingtables)podcast\. [NC]
+RewriteRule (.*) http://sunriserobot.net/%1/$1 [R=301,L]
 
 # Redirects pseudobookpodcast.com based episode URLs to sunriserobot.net/pseudoshow
-#RewriteEngine on
-#RewriteCond %{HTTP_HOST} ^(?:www\.)?(pseudobook)podcast\. [NC]
-#RewriteRule (.*) http://sunriserobot.net/pseudoshow/$1 [R=301,L]
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(?:www\.)?(pseudobook)podcast\. [NC]
+RewriteRule (.*) http://sunriserobot.net/pseudoshow/$1 [R=301,L]
 
 # Drop leading zero from episode URL
 RewriteEngine on
