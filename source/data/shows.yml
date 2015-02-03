@@ -49,23 +49,6 @@
   large_art: "likelystory/likelystory_large.jpg"
   email: "hello@sunriserobot.net"
   category: "TV & Film"
-- prefix: "bitsandpieces"
-  title: "Bits & Pieces"
-  hosts:
-    - { name: "Matt Duncan",
-        twitter: "echolox",
-        website: "facebook.com/echolox",
-        photo: "mattduncan.jpg" }
-    - { name: "Michael Edwards",
-        twitter: "medwardsmusic",
-        website: "pseudomichael.com",
-        photo: "michaeledwards.jpg" }
-  description: "An examination of the world of music as listeners and creators, including trends in the industry and the elements of success."
-  album_art: "bitsandpieces/bitsandpieces_album.png"
-  social_art: "bitsandpieces/bitsandpieces_social.png"
-  large_art: "bitsandpieces/bitsandpieces_large.png"
-  email: "hello@sunriserobot.net"
-  category: "Music"
 - prefix: "somepulp"
   title: "Some Pulp"
   hosts:
