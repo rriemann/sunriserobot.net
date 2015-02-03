@@ -10,7 +10,7 @@
 <meta name="twitter:site" content="@sunriserobot">
 <meta name="twitter:title" content="<% if current_article %><%= "#{@show["title"]} ##{current_article.data.number}: #{current_article.title} | " %><% elsif @show %><%= "#{@show["title"]} | " %><% end %>Sunrise Robot">
 <meta name="twitter:creator" content="@sunriserobot">
-<meta name="twitter:url" content="<% if current_article %><%= "http://sunriserobot.net#{current_article.url}/" %><% elsif @show %><%= "http://sunriserobot.net#{@show["prefix"]}/" %><% else %>http://sunriserobot.net<% end %>">
+<meta name="twitter:url" content="<% if current_article %><%= "http://sunriserobot.net#{current_article.url}" %><% elsif @show %><%= "http://sunriserobot.net#{@show["prefix"]}" %><% else %>http://sunriserobot.net<% end %>">
 <meta name="twitter:description" content="<% if current_article %><%= current_article.data.description %><% elsif @show %><%= @show["description"] %><% else %>Sunrise Robot - shows for technologists, gamers, artists and cultural enthusiasts.<% end %>">
 <meta itemprop="description" content="<% if current_article %><%= current_article.data.description %><% elsif @show %><%= @show["description"] %><% else %>Sunrise Robot - shows for technologists, gamers, artists and cultural enthusiasts.<% end %>">
 <meta name="twitter:image" content="<% if @show %><%= "http://sunriserobot.net/images/#{@show["social_art"]}" %><% else %>http://sunriserobot.net/images/sunriserobot_social.png<% end %>">
@@ -24,7 +24,7 @@
 <meta property="og:audio" content="<%= current_article.data.enclosure_link %>" /> <!-- This and next tag are connected. -->
 <meta property="og:audio:type" content="audio/mpeg" />
 <% end %>
-<meta property="og:url" content="<% if current_article %><%= "http://sunriserobot.net#{current_article.url}/" %><% elsif @show %><%= "http://sunriserobot.net#{@show["prefix"]}/" %><% else %>http://sunriserobot.net<% end %>" />
+<meta property="og:url" content="<% if current_article %><%= "http://sunriserobot.net#{current_article.url}" %><% elsif @show %><%= "http://sunriserobot.net#{@show["prefix"]}" %><% else %>http://sunriserobot.net<% end %>" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:site_name" content="Sunrise Robot" />
 <meta property="og:email" content="hello@sunriserobot.net" />
