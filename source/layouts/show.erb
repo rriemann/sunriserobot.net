@@ -12,7 +12,7 @@
           <div class="col-sm-7 col-md-7">
             <h1 class="show-title"><%= @show["title"] %></h1>
             <p><%= @show["description"] %></p>
-            <p><a href="<%= @show["itunes"] %>" class="btn btn-itunes" role="button"><i class="fa fa-music"></i> iTunes</a> <a href="pcast://sunriserobot.net/<%= @show["prefix"] %>/feed.xml" class="btn btn-rss" role="button"><i class="fa fa-rss"></i> RSS</a></p>
+            <p><% if @show["itunes"] %><a href="<%= @show["itunes"] %>" class="btn btn-itunes" role="button"><i class="fa fa-music"></i> iTunes</a> <% end %><a href="pcast://sunriserobot.net/<%= @show["prefix"] %>/feed.xml" class="btn btn-rss" role="button"><i class="fa fa-rss"></i> RSS</a></p>
           </div>
         </div>
       </div>
