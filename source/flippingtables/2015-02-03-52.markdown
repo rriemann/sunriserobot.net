@@ -1,0 +1,12 @@
+---
+number: "52"
+title: "Announcing Sunrise Robot"
+pubDate: "2015-02-03"
+description: "In early 2014, we started a podcast called Flipping Tables. Every week we released a new episode through sickness, blizzards, and whatever else life sent our way. After nearly a year of non-stop episodes, we realized this was no longer just a hobby, but something we wanted to grow beyond one show. With Michael's killer designs and Lyons hacking away in vim we built a sleek website and launched Sunrise Robot as a whole network of shows for technologists, gamers, artists and cultural enthusiasts."
+enclosure_link: "http://traffic.libsyn.com/sunriserobot/ft52.mp3"
+enclosure_length: "24087371"
+duration: "00:48:35"
+---
+- [Sunrise Robot](http://sunriserobot.net)
+- [Follow @sunriserobot on Twitter](http://twitter.com/sunriserobot)
+- [Support the new network through Patreon](https://www.patreon.com/sunriserobot)
