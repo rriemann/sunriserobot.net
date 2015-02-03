@@ -53,8 +53,7 @@
   title: "Some Pulp"
   hosts:
     - { name: "Bruce Edwards",
-        twitter: "bruceledwards",
-        website: "aslandad.com",
+        twitter: "brucebgsu",
         photo: "bruceedwards.jpg" }
   description: "A retrospective meditation on media, art, and technology from the 1950s onward."
   album_art: "somepulp/somepulp_album.jpg"
