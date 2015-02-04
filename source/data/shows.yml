@@ -49,6 +49,7 @@
   large_art: "likelystory/likelystory_large.jpg"
   email: "hello@sunriserobot.net"
   category: "TV & Film"
+  itunes: "https://itunes.apple.com/us/podcast/likely-story/id963635858"
 - prefix: "somepulp"
   title: "Some Pulp"
   hosts:
@@ -61,6 +62,7 @@
   large_art: "somepulp/somepulp_large.jpg"
   email: "hello@sunriserobot.net"
   category: "TV & Film"
+  itunes: "https://itunes.apple.com/us/podcast/some-pulp/id963635814"
 - prefix: "bitsandpieces"
   title: "Bits & Pieces"
   hosts:
@@ -78,3 +80,4 @@
   large_art: "bitsandpieces/bitsandpieces_large.png"
   email: "hello@sunriserobot.net"
   category: "Music"
+  itunes: "https://itunes.apple.com/us/podcast/bits-pieces/id963635806"
