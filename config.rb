@@ -8,8 +8,7 @@ shows.each do |show|
     blog.paginate  = true
     blog.per_page  = 10
     page "#{blog.prefix}/*", layout: "episode"
-    page "#{blog.prefix}/feed.xml", layout: false
-    page "#{blog.prefix}/ftrss.xml", layout: false # Temporary
+    page "#{blog.prefix}/feed.xml", layout: "feed"
     page "#{blog.prefix}/index.html", layout: "show"
   end
 end
