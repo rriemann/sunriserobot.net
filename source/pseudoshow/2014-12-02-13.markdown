@@ -4,8 +4,8 @@ title: "Winter is Coming"
 pubDate: "2014-12-02"
 description: "Meredith Strathmeyer, Candice Bergeron, and Damien Patterson of Wonderbound stop by to discuss Winter, the newest collaborative production of the ballet company."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps13.mp3"
-enclosure_length: "0"
-duration: "00:00:00"
+enclosure_length: "13785539"
+duration: "00:25:35"
 ---
 - [Winter on the web](http://wonderbound.com/shows-events/winter-2014/)
 - [Wonderbound homepage](http://wonderbound.com)

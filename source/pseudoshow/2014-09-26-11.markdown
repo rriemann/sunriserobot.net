@@ -4,8 +4,8 @@ title: "It's Manhattan, Kansas. It's not like a Lot of Hype Can Get to You."
 pubDate: "2014-09-26"
 description: "The Edwards brothers welcome their father Bruce on to talk about his pop culture influences from growing up in the 50s and 60s. Join us for the fascinating discussion, covering early television, the maturing of fantasy and sci-fi genres, seeing Star Wars Episode IV for the first time, and why Justin was allowed to watch Twin Peaks when he was 9 years old."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps11.mp3"
-enclosure_length: "0"
-duration: "00:00:00"
+enclosure_length: "53281321"
+duration: "01:11:55"
 ---
 - [I Love Lucy pregnancy controversy](http://www.avclub.com/article/more-than-60-years-ago-a-pregnant-lucille-ball-cou-100629)
 - [Happy Days - Garry Marshall on censors and 'virgin'](http://www.hollywoodreporter.com/news/garry-marshall-nab-happy-days-laverne-shirley-311154)

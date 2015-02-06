@@ -4,8 +4,8 @@ title: "PlayStations and Paradiddles"
 pubDate: "2014-04-28"
 description: "Benji Robinson, a longtime friend of the Edwards brothers, joins the show to talk about his freelance video and audio production company, his 80s synth project, maxing out the voice memo storage on his phone with song ideas, and his experience as co-composer of the Detective Detective Detective soundtrack."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps4.mp3"
-enclosure_length: "0"
-duration: "00:00:00"
+enclosure_length: "38930536"
+duration: "00:51:59"
 ---
 - [Render Arcade](http://renderarcade.com/)
 - [Reptile Ficton](http://reptilefiction.bandcamp.com/)

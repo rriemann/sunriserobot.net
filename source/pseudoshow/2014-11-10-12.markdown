@@ -4,8 +4,8 @@ title: "The Man Behind Montropo"
 pubDate: "2014-11-10"
 description: "Andrés Diaz joins the podcast to discuss his latest musical project Montropo with the debut album Follow Me which has been over 2 years in the making. Learn how Michael and Andrés met and started playing music together."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps12.mp3"
-enclosure_length: "0"
-duration: "00:00:00"
+enclosure_length: "27959802"
+duration: "00:36:44"
 ---
 - [Montropo on the web](http://montropo.com)
 - [Follow @Montropo on Twitter](http://twitter.com/montropo)

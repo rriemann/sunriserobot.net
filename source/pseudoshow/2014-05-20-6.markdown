@@ -4,8 +4,8 @@ title: "We All Steal From The Past"
 pubDate: "2014-05-20"
 description: "Denver-based singer-songwriter Jesse Manley joins to discuss his creative work in making folk music new again. From his collaborations with the modern ballet company Wonderbound on A Gothic Folktale to his continued work on his own live show, hear about how he is exploring early American folk, blues, and jazz music in all sorts of new collaborations."
 enclosure_link: "http://traffic.libsyn.com/sunriserobot/ps6.mp3"
-enclosure_length: "0"
-duration: "00:00:00"
+enclosure_length: "60952023"
+duration: "01:01:55"
 ---
 - [Jesse Manley’s website](http://www.jessemanley.com/) and [Facebook page](https://www.facebook.com/pages/Jesse-Manley/171341942915033)
 - [Jesse performing “Everything That Is” on Open Air CPR](https://www.youtube.com/watch?v=-8zVruLbVds)
