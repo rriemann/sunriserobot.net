@@ -7,7 +7,6 @@ shows.each do |show|
     blog.prefix    = show["prefix"]
     blog.paginate  = true
     blog.per_page  = 10
-    blog.publish_future_dated = true # Temporary
     page "#{blog.prefix}/*", layout: "episode"
     page "#{blog.prefix}/feed.xml", layout: false
     page "#{blog.prefix}/ftrss.xml", layout: false # Temporary
