@@ -47,7 +47,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
         xml.title "#{episode.data.number} - #{episode.data.title}"
         xml.link link
         xml.guid link
-        xml.pubDate episode.date.httpdate
+        xml.pubDate episode.date.strftime("%a, %d %b %Y 09:00:00 GMT")
         xml.author host_names
         xml.description episode.data.description
         xml.enclosure "url" => episode.data.enclosure_link,
