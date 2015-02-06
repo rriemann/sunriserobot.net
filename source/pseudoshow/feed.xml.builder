@@ -21,7 +21,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
     xml.link site_url # Link to show page, not a specific episode
     xml.description show_data["description"]
     xml.language "en-us"
-    xml.copyright "Copyright #{Time.now.year} #{host_names}"
+    xml.copyright "Copyright #{Time.now.year} Sunrise Robot"
     xml.image do
       xml.url album_art_url
       xml.title show_data["title"]
@@ -30,7 +30,7 @@ xml.rss "xmlns:dc"      => "http://purl.org/dc/elements/1.1/",
     # iTunes specific
     xml.tag! "itunes:new-feed-url", "http://sunriserobot.net/#{show_data["prefix"]}/feed.xml"
     xml.tag! "itunes:subtitle", show_data["title"]
-    xml.tag! "itunes:author", host_names
+    xml.tag! "itunes:author", "Sunrise Robot"
     xml.tag! "itunes:summary", show_data["description"]
     xml.tag! "itunes:image href=\"#{album_art_url}\""
     xml.tag! "itunes:explicit", "No"
